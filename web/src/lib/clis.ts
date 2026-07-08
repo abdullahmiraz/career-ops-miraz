@@ -63,8 +63,11 @@ function binCandidates(bin: string): string[] {
     // Only include extensions that `child_process.spawn()` can execute directly.
     .filter((e) => [".com", ".exe", ".bat", ".cmd"].includes(e.toLowerCase()));
 
-  // Try the bare name too (some environments provide an extensionless shim).
-  return [bin, ...exts.map((ext) => bin + ext)];
+  // Extensions first: child_process.spawn() cannot directly execute an
+  // extensionless POSIX shell shim on Windows (e.g. npm's cross-platform
+  // `claude` alongside `claude.cmd`) — it must resolve to the .cmd/.exe form.
+  // Still fall back to the bare name for environments that provide only that.
+  return [...exts.map((ext) => bin + ext), bin];
 }
 
 export function findBin(bin: string, dirs = searchDirs()): string | null {
@@ -96,4 +99,15 @@ export function resolveCli(id: string): { spec: CliSpec; binPath: string } | nul
   const binPath = findBin(spec.bin);
   if (!binPath) return null;
   return { spec, binPath };
+}
+
+/**
+ * child_process.spawn() cannot execute a .cmd/.bat file directly on Windows —
+ * it needs cmd.exe as the interpreter (Node throws EINVAL otherwise). Spread
+ * this into every spawn(binPath, args, {...}) call site that launches a
+ * resolveCli() binary; a no-op ({}) on POSIX or for a real .exe/extensionless
+ * binary, so it's always safe to include.
+ */
+export function spawnShellOpt(binPath: string): { shell: boolean } | Record<string, never> {
+  return process.platform === "win32" && /\.(cmd|bat)$/i.test(binPath) ? { shell: true } : {};
 }

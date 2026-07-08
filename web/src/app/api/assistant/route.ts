@@ -1,5 +1,5 @@
 import { spawn } from "node:child_process";
-import { resolveCli } from "@/lib/clis";
+import { resolveCli, spawnShellOpt } from "@/lib/clis";
 import { careerOpsRoot, readMemory, doctorState } from "@/lib/career-ops";
 
 export const runtime = "nodejs"; // child_process (spawn) requires the Node runtime
@@ -109,7 +109,7 @@ export async function POST(req: Request) {
       ]
     : spec.args(prompt);
 
-  const child = spawn(binPath, args, { cwd: careerOpsRoot(), env: process.env });
+  const child = spawn(binPath, args, { cwd: careerOpsRoot(), env: process.env, ...spawnShellOpt(binPath) });
 
   const encoder = new TextEncoder();
   // `closed` + kill timer in the OUTER scope so cancel() can flip `closed` before
