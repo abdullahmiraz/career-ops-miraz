@@ -85,7 +85,16 @@ export function marketFromUrlOrLocation(url: string, location: string | undefine
   }
   const domainIs = (base: string) => host === base || host.endsWith(`.${base}`);
   if (domainIs("bdjobs.com") || domainIs("skill.jobs")) return "bangladesh";
-  if (domainIs("hh.ru") || domainIs("career.habr.com") || domainIs("getmatch.ru")) return "russia";
+  if (
+    domainIs("hh.ru") ||
+    domainIs("career.habr.com") ||
+    domainIs("getmatch.ru") ||
+    domainIs("rabota.ru") ||
+    domainIs("tbank.ru") ||
+    domainIs("yandex.ru") ||
+    domainIs("sber.ru")
+  )
+    return "russia";
 
   const loc = (location || "").toLowerCase();
   if (/bangladesh|dhaka|chittagong|chattogram|sylhet/.test(loc)) return "bangladesh";
