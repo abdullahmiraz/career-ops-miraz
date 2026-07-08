@@ -1,0 +1,817 @@
+# Pipeline — Pending URLs
+
+Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
+
+## Pending
+
+- [!] https://www.linkedin.com/jobs/view/full-stack-developer-with-ai-llm-rag-genai-python-node-js-react-next-js-at-codebase-inc-4398272590 | Codebase Inc | Full Stack Developer with AI (LLM, RAG) GenAI, Python/Node.js/React/Next.js — LinkedIn requires login to read the full JD; paste the posting text here to evaluate.
+- [!] https://www.linkedin.com/jobs/view/llm-full-stack-python-+-js-remote-stron-exp-in-llm-coding-tools-at-millenniumsoft-inc-4329725679 | MillenniumSoft Inc | Full Stack Python + JS, Remote, LLM coding tools — LinkedIn requires login to read the full JD; paste the posting text here to evaluate.
+- [!] https://am.linkedin.com/jobs/view/llm-python-engineer-russian-speaking-at-smartbrain-io-4315837193 | SmartBrain.io | Python LLM Engineer (Russian speaking) — LinkedIn requires login to read the full JD; paste the posting text here to evaluate.
+
+- [ ] https://job-boards.greenhouse.io/humeai/jobs/4775962008 | Hume AI | AI Researcher | NYC, San Jose, or Remote
+- [ ] https://job-boards.eu.greenhouse.io/polyai/jobs/4796935101 | PolyAI | Forward Deployed AI Engineer (Must be PST timezone) | United States {West Coast}
+- [ ] https://job-boards.eu.greenhouse.io/polyai/jobs/4880510101 | PolyAI | Forward Deployed AI Engineer - Vancouver | Vancouver
+- [ ] https://job-boards.greenhouse.io/intercom/jobs/7824142 | Intercom | AI Infrastructure Engineer | Berlin, Germany
+- [ ] https://job-boards.greenhouse.io/intercom/jobs/7807509 | Intercom | Business Development Representative, Emerging AI Products | Chicago, Illinois
+- [ ] https://job-boards.greenhouse.io/intercom/jobs/7982566 | Intercom | Forward Deployed Software Engineer | Dublin, Ireland
+- [ ] https://job-boards.greenhouse.io/intercom/jobs/7624926 | Intercom | Solutions Engineer - LATAM (Portuguese Speaking) | San Francisco, California
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/4461450008 | Anthropic | Account Executive, AI Native | San Francisco, CA / New York City, NY
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5208218008 | Anthropic | AI Compliance Officer | Dublin, IE
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5116927008 | Anthropic | Applied AI Claude Evangelist, Startups | San Francisco, CA
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5186067008 | Anthropic | Full-Stack Software Engineer, Reinforcement Learning | San Francisco, CA / New York City, NY
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/4423394008 | Anthropic | Growth Account Executive, AI Native | San Francisco, CA / New York City, NY
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5255853008 | Anthropic | IT Systems Engineer, Client Platform Engineer | Boston, MA; New York City, NY; Remote-Friendly (Travel-Required) / Washington, DC
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5098025008 | Anthropic | Model Performance Software Engineer, Claude Code | San Francisco, CA / New York City, NY
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5238637008 | Anthropic | Product Engineer, Computer Use | San Francisco, CA / New York City, NY / Seattle, WA
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/4935314008 | Anthropic | Recruiter, AI Research | San Francisco, CA / Seattle, WA
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/4595463008 | Anthropic | Security Software Engineer, Detection & Response Platform | San Francisco, CA / New York City, NY / Seattle, WA; Washington, DC
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5063007008 | Anthropic | Software Engineer, Cybersecurity Products | San Francisco, CA / New York City, NY / Seattle, WA; Washington, DC
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5109273008 | Anthropic | Software Engineer, Human Data Interface | San Francisco, CA / New York City, NY
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5283063008 | Anthropic | Software Engineer, Research Infrastructure | San Francisco, CA / New York City, NY
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5238606008 | Anthropic | Software Engineer, RL Data | San Francisco, CA / New York City, NY
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5074908008 | Anthropic | Software Engineer, Safeguards Infrastructure | London, UK
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5149802008 | Anthropic | Transformative AI Research Economist, Economic Research | San Francisco, CA
+- [ ] https://jobs.ashbyhq.com/deepgram/0796cc37-96a7-4158-8a00-155962da275a | Deepgram | Backend Software Engineer - Active Learning Team | USA / Remote
+- [ ] https://jobs.ashbyhq.com/deepgram/1395ef4d-883a-4006-85a1-4e7d44623431 | Deepgram | Pre-Sales Solutions Engineer (EST or PST) | USA / Remote
+- [ ] https://jobs.ashbyhq.com/deepgram/378e83b4-28c0-4b4e-8cf0-9355712bd06d | Deepgram | Billing & Analytics Software Engineer | USA / Remote
+- [ ] https://jobs.ashbyhq.com/deepgram/7c7064bb-2bf0-4f64-81cc-14afe79a15c1 | Deepgram | Backend Software Engineer - Engine Team (Voice Agent) | USA / Remote
+- [ ] https://jobs.ashbyhq.com/deepgram/8884965c-8a55-414c-ba86-a52d527f5dff | Deepgram | Solutions Engineer, Enterprise | New York City, NY · San Francisco, CA · San Francisco · United States
+- [ ] https://jobs.ashbyhq.com/deepgram/a58e4a11-7f98-4686-98e8-2612b52d7bbd | Deepgram | Forward Deployed Engineer, Deepgram for Restaurants | New York City, NY · San Francisco, CA · San Francisco · United States
+- [ ] https://jobs.ashbyhq.com/deepgram/f424ef6a-c27f-4984-9e77-40a1ad16ae28 | Deepgram | Site Reliability Engineer - AI & ML Infrastructure (Kubernetes, AWS & Terraform) | USA / Remote
+- [ ] https://jobs.ashbyhq.com/deepgram/f904ff60-f5d1-45c7-8fa2-8456c47b4204 | Deepgram | Pre-Sales Solutions Engineer (San Francisco, CA) | San Francisco, CA
+- [ ] https://jobs.ashbyhq.com/bland/824f7ebb-6d71-4484-bc7d-a2bcd4441a70 | Bland AI | Forward Deployed Engineer | San Francisco
+- [ ] https://job-boards.greenhouse.io/arizeai/jobs/5989512004 | Arize AI | AI Application Engineer, APJ | Remote (Singapore)
+- [ ] https://job-boards.greenhouse.io/arizeai/jobs/5793354004 | Arize AI | AI Sales Engineer, EMEA | EMEA (Remote)
+- [ ] https://job-boards.greenhouse.io/arizeai/jobs/5792327004 | Arize AI | AI Sales Engineer, US | Remote (United States)
+- [ ] https://job-boards.greenhouse.io/arizeai/jobs/5980312004 | Arize AI | DevSecOps Engineer (TypeScript & Agentic AI) | Remote/Hybrid (SoCal)
+- [ ] https://job-boards.greenhouse.io/arizeai/jobs/5993755004 | Arize AI | Forward Deployed AI Engineer, East | Remote (New York)
+- [ ] https://job-boards.greenhouse.io/arizeai/jobs/5781408004 | Arize AI | Forward Deployed AI Engineer, EMEA | Remote (EMEA)
+- [ ] https://job-boards.greenhouse.io/arizeai/jobs/6030953004 | Arize AI | Forward Deployed AI Engineer, West | Remote (San Francisco)
+- [ ] https://job-boards.greenhouse.io/arizeai/jobs/5993317004 | Arize AI | Forward Deployed Engineer, APJ | Remote (Singapore)
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/6093255004 | Vercel | Security Software Engineer, IAM | Remote - United States
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/5704320004 | Vercel | Software Engineer, Agent | Hybrid - San Francisco
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/5798406004 | Vercel | Software Engineer, AI Gateway | Hybrid - San Francisco, New York City
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/5474915004 | Vercel | Software Engineer, AI SDK | Hybrid - San Francisco, New York City
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/5430088004 | Vercel | Software Engineer, Backend | Remote - United States
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/5179639004 | Vercel | Software Engineer, CDN | Hybrid - San Francisco, New York City
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/6105394004 | Vercel | Software Engineer, CDN Content | Hybrid - San Francisco
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/5551619004 | Vercel | Software Engineer, Compute | Remote - United States
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/5808568004 | Vercel | Software Engineer, Dashboard | Hybrid - San Francisco, New York City
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/5633880004 | Vercel | Software Engineer, Deployment Infrastructure | Hybrid - San Francisco, New York City
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/6098390004 | Vercel | Software Engineer, eve | Hybrid - San Francisco, New York City
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/5613601004 | Vercel | Software Engineer, Growth | Hybrid - San Francisco, New York City
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/5993753004 | Vercel | Software Engineer, Next.js | Hybrid - San Francisco
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/5428982004 | Vercel | Software Engineer, Observability | Hybrid - London
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/5798416004 | Vercel | Software Engineer, Workflows | Hybrid - San Francisco, New York City
+- [ ] https://jobs.ashbyhq.com/elevenlabs/07a8552c-4206-4c27-9f0d-d72d3e40d2a1 | ElevenLabs | Enterprise Solutions Engineer - Belgium | Belgium
+- [ ] https://jobs.ashbyhq.com/elevenlabs/1285b935-1398-4116-8576-70a58896faa8 | ElevenLabs | Enterprise Solutions Engineer - Middle East | UAE
+- [ ] https://jobs.ashbyhq.com/elevenlabs/1a9d687d-0030-4732-8160-f1da54844bba | ElevenLabs | Enterprise Solutions Engineer - ANZ | Australia
+- [ ] https://jobs.ashbyhq.com/elevenlabs/1f668ed5-49e9-4726-881f-7818733103b1 | ElevenLabs | Forward Deployed Creative | United States · Ireland · Spain · Mexico · Italy · Poland · United Kingdom · France · Canada
+- [ ] https://jobs.ashbyhq.com/elevenlabs/275f43d0-b62d-401d-830c-7c1ac0e688aa | ElevenLabs | Enterprise Solutions Engineer - North America | United States · New York · New York City · San Francisco · Canada
+- [ ] https://jobs.ashbyhq.com/elevenlabs/3178581d-ea70-4dee-b018-2ce2d2a18bbe | ElevenLabs | AI Creative Producer | United Kingdom · Ireland · Dublin · Spain · Sofia · Bulgaria · Portugal · Warsaw · Poland · Sweden · Stockholm · Italy · Ukraine · London
+- [ ] https://jobs.ashbyhq.com/elevenlabs/36bdb528-004b-482c-8924-33b27b76121f | ElevenLabs | Forward Deployed Engineer - Software Engineer - Singapore | Singapore · Australia · Japan · Taiwan
+- [ ] https://jobs.ashbyhq.com/elevenlabs/3f10ccc9-56a9-40bf-b5f1-33ab5834ff4a | ElevenLabs | Enterprise Solutions Engineer - Netherlands | Netherlands
+- [ ] https://jobs.ashbyhq.com/elevenlabs/4509df6f-b839-44d6-b31f-d7f364cec949 | ElevenLabs | Enterprise Solutions Engineer - Europe | United Kingdom · Ireland · Germany · Denmark · Portugal · Sweden · Stockholm · Italy · Poland
+- [ ] https://jobs.ashbyhq.com/elevenlabs/46bad7dc-c8d7-403d-8b10-a2d71c005384 | ElevenLabs | Enterprise Solutions Engineer - LATAM | Mexico
+- [ ] https://jobs.ashbyhq.com/elevenlabs/5881bc5d-765a-430e-9d28-7d598a0e1a03 | ElevenLabs | Full-Stack Growth Engineer | United Kingdom · United States · Poland
+- [ ] https://jobs.ashbyhq.com/elevenlabs/5d01b08d-a300-4f29-93e4-039147d7ddd7 | ElevenLabs | Enterprise Solutions Engineer - Oceania | Australia · New Zealand · Japan · Singapore
+- [ ] https://jobs.ashbyhq.com/elevenlabs/6a530871-b6c6-4783-ac6b-69cc3b084192 | ElevenLabs | Full-Stack Engineer | United Kingdom · Dublin · Ireland · Spain · United States · New York · New York City · Sofia · Bulgaria · Germany · Poland · Boston · Amsterdam · Netherlands
+- [ ] https://jobs.ashbyhq.com/elevenlabs/6c4c57c1-ec72-42ba-af3a-eb7aebbde2e6 | ElevenLabs | Forward Deployed Engineer - Software Engineer | San Francisco · New York · New York City · United States · Brazil · France · India
+- [ ] https://jobs.ashbyhq.com/elevenlabs/7664e3c4-2336-4d1a-90cf-91d1268de10d | ElevenLabs | Forward Deployed Engineer - Software Engineer - Spain | Spain
+- [ ] https://jobs.ashbyhq.com/elevenlabs/81f53be2-dd0e-433d-94bf-d506973be1ed | ElevenLabs | Enterprise Solutions Engineer - Mexico | Mexico
+- [ ] https://jobs.ashbyhq.com/elevenlabs/85b7489f-5b0c-4f21-9c1c-7b76ed904c44 | ElevenLabs | Enterprise Solutions Engineer - Singapore | Singapore · Australia · Japan · Taiwan
+- [ ] https://jobs.ashbyhq.com/elevenlabs/8a88f764-27f5-46d7-8ce0-0ba15401efb1 | ElevenLabs | Enterprise Solutions Engineer - Brazil | Brazil
+- [ ] https://jobs.ashbyhq.com/elevenlabs/90d0cc88-b81c-40d6-be4c-0984c118ecf7 | ElevenLabs | Enterprise Solutions Engineer - Chile | Chile
+- [ ] https://jobs.ashbyhq.com/elevenlabs/ada7cd2c-8b9f-4f19-a88b-7c2ca1be1fde | ElevenLabs | Full-Stack Engineer (Front-End Leaning) | United Kingdom · Ireland · Dublin · New York · New York City · United States · Sofia · Bulgaria · Los Angeles · Portugal · Warsaw · Poland · Sweden · Stockholm · London · Netherlands · Boston · Amsterdam · Washington, D.C.
+- [ ] https://jobs.ashbyhq.com/elevenlabs/b081fafb-3659-4bf6-8e87-eb5ccc3ff234 | ElevenLabs | Enterprise Solutions Engineer - Spain | Spain
+- [ ] https://jobs.ashbyhq.com/elevenlabs/b95f7f0b-f22f-4fc4-9d9f-87f5485b0a1f | ElevenLabs | Enterprise Solutions Engineer - EU (German Speaking) | Germany · Ireland · Spain · Denmark · Portugal · Sweden · Stockholm · Italy · Poland · United Kingdom · Bulgaria
+- [ ] https://jobs.ashbyhq.com/elevenlabs/c7d59014-b918-4c15-ae33-79f5c9f2cf9f | ElevenLabs | Full-Stack Engineer (Back-End Leaning) | United Kingdom · Dublin · Ireland · United States · New York · New York City · Sofia · Bulgaria · Germany · Portugal · Warsaw · Poland · Madrid · Spain · Boston · Amsterdam · Netherlands
+- [ ] https://jobs.ashbyhq.com/elevenlabs/ce00fe7b-a93a-436b-bd5e-2eff87c48f23 | ElevenLabs | Enterprise Solutions Engineer - France | France
+- [ ] https://jobs.ashbyhq.com/elevenlabs/d46c3fc8-b87b-4b8b-bcc2-759944f77ae5 | ElevenLabs | Enterprise Solutions Engineer - Germany | Germany
+- [ ] https://jobs.ashbyhq.com/elevenlabs/fb1fd9cc-bd6d-4895-be29-4bc37d0c31a0 | ElevenLabs | Solutions Engineer - India | India
+- [ ] https://jobs.ashbyhq.com/elevenlabs/fc24cc63-43de-46e1-a1aa-2910013f5e7f | ElevenLabs | Forward Deployed Engineering Recruiter | United Kingdom · Ireland · Spain · Australia · Germany · Belgium · Brazil · Mexico · Chile · Italy · Singapore · France · Argentina
+- [ ] https://coreweave.com/careers/job?4671477006&board=coreweave&gh_jid=4671477006 | Weights & Biases (CoreWeave) | Software Engineer - Data Infrastructure Services | Sunnyvale, CA / Bellevue, WA
+- [ ] https://coreweave.com/careers/job?4678606006&board=coreweave&gh_jid=4678606006 | Weights & Biases (CoreWeave) | Software Engineer II, Developer Experience | Livingston, NJ / New York, NY / Sunnyvale, CA / Bellevue, WA
+- [ ] https://coreweave.com/careers/job?4609928006&board=coreweave&gh_jid=4609928006 | Weights & Biases (CoreWeave) | Software Engineer, Inference AI/ML | Sunnyvale, CA / Bellevue, WA
+- [ ] https://coreweave.com/careers/job?4577764006&board=coreweave&gh_jid=4577764006 | Weights & Biases (CoreWeave) | Software Engineer, Kubernetes | Livingston, NJ / New York, NY / Sunnyvale, CA / Bellevue, WA
+- [ ] https://coreweave.com/careers/job?4656273006&board=coreweave&gh_jid=4656273006 | Weights & Biases (CoreWeave) | Software Engineer, Kubernetes Core Interfaces | Livingston, NJ / New York, NY
+- [ ] https://coreweave.com/careers/job?4587675006&board=coreweave&gh_jid=4587675006 | Weights & Biases (CoreWeave) | Software Engineer, Observability | New York, NY / Sunnyvale, CA
+- [ ] https://coreweave.com/careers/job?4692585006&board=coreweave&gh_jid=4692585006 | Weights & Biases (CoreWeave) | Solution Specialist, AI Runtime Services | Livingston, NJ / New York, NY / Sunnyvale, CA / San Francisco, CA / Bellevue, WA
+- [ ] https://job-boards.greenhouse.io/airtable/jobs/8442397002 | Airtable | Software Engineer, Compute (8+ YOE) | San Francisco, CA; New York, NY; Remote - US
+- [ ] https://job-boards.greenhouse.io/airtable/jobs/8124953002 | Airtable | Software Engineer, Data | San Francisco, CA; Austin, TX; New York, NY
+- [ ] https://job-boards.greenhouse.io/airtable/jobs/8400373002 | Airtable | Software Engineer, Infrastructure (4-8 YOE) | San Francisco, CA; New York, NY; Seattle, WA
+- [ ] https://job-boards.greenhouse.io/airtable/jobs/8400388002 | Airtable | Software Engineer, Infrastructure (8+ YOE) | San Francisco, CA; New York, NY; Remote - US (Seattle, WA only)
+- [ ] https://job-boards.greenhouse.io/airtable/jobs/8397618002 | Airtable | Software Engineer, Product Backend (8+ YOE) | San Francisco, CA; New York, NY
+- [ ] https://job-boards.greenhouse.io/airtable/jobs/8397228002 | Airtable | Software Engineer, Product Frontend (8+ YOE) | San Francisco, CA; New York, NY
+- [ ] https://job-boards.greenhouse.io/airtable/jobs/8551939002 | Airtable | Strategic Account Executive, AI Native | San Francisco, CA
+- [ ] https://jobs.ashbyhq.com/n8n/dd8e10d7-81ce-4b03-8ce3-f32c3423f33e | n8n | Community Software Engineer / Remote / Europe | Berlin Office · Romania · Estonia · Slovenia · Italy · Netherlands · Hungary · Kosovo · Portugal · France · Poland · Serbia · Germany · Austria · Finland · Ireland · Bulgaria · Denmark · Belgium · Czech Republic · United Kingdom · Croatia · Spain · Greece · Sweden
+- [ ] https://boomi.com/boomi-jobs/?gh_jid=6092680004 | Boomi | AI Full Stack Engineer | United States of America
+- [ ] https://boomi.com/boomi-jobs/?gh_jid=6018566004 | Boomi | Field Engineer - Data Integration & AI | United States of America
+- [ ] https://boomi.com/boomi-jobs/?gh_jid=5789831004 | Boomi | Software Quality Engineer - AI | Canada
+- [ ] https://jobs.ashbyhq.com/decagon/28366d07-ae89-428c-8593-1840591bfc18 | Decagon | Software Engineer, Agents | London
+- [ ] https://jobs.ashbyhq.com/decagon/3a68de82-c874-4cd2-b639-17948748e212 | Decagon | Platform Engineer, Security | San Francisco
+- [ ] https://jobs.ashbyhq.com/decagon/6431a6f9-2ebe-4b68-beb6-200b42aeeca8 | Decagon | Strategic Solutions Engineer, East | Remote
+- [ ] https://jobs.ashbyhq.com/decagon/78745829-74ee-41cb-836c-480ca7bf9edc | Decagon | Strategic Solutions Engineer, West | Remote
+- [ ] https://jobs.ashbyhq.com/decagon/95dadea4-8bd2-421a-bf3f-51c04e102ee2 | Decagon | Enterprise Solutions Engineer | Australia
+- [ ] https://jobs.ashbyhq.com/decagon/ac6bb765-99b9-47d0-9347-7e3493652f9f | Decagon | Go to Market Recruiting Coordinator | San Francisco
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4659412005 | Glean | Founding Forward Deployed Engineer | New York, NY
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4694716005 | Glean | Machine Learning Engineer, LLM Evals & Observability | Mountain View, CA
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4669417005 | Glean | Machine Learning Engineer, LLM Evals & Observability | San Francisco, CA
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4591195005 | Glean | Public Sector Solutions Engineer, SLED | Washington, DC
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4501783005 | Glean | Software Engineer, AI Infrastructure | Mountain View, CA
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4605446005 | Glean | Software Engineer, AI & Security | Mountain View, CA
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4696752005 | Glean | Software Engineer, APIs & Context Platform | Mountain View, CA
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4006731005 | Glean | Software Engineer, Backend | Bangalore, India
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4656281005 | Glean | Software Engineer, Billing & Revenue Platform | Mountain View, CA
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4711861005 | Glean | Software Engineer, Cloud Deployment Infrastructure | San Francisco, CA
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4704106005 | Glean | Software Engineer, Compute Infrastructure | Mountain View, CA
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4638008005 | Glean | Software Engineer, Context Platform | Mountain View, CA
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4637208005 | Glean | Software Engineer, Data Foundations | San Francisco, CA
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4614706005 | Glean | Software Engineer, Developer Productivity | Mountain View, CA
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4006733005 | Glean | Software Engineer, Frontend | Mountain View, CA
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4006734005 | Glean | Software Engineer, Fullstack | Mountain View, CA
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4659229005 | Glean | Software Engineer, Insights | Mountain View, CA
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4012745005 | Glean | Software Engineer, Machine Learning | Bangalore, India
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4428090005 | Glean | Software Engineer, Product Backend | Mountain View, CA
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4610281005 | Glean | Software Engineer, Storage | Mountain View, CA
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4706392005 | Glean | Solutions Engineer, DACH | Germany
+- [ ] https://jobs.ashbyhq.com/sierra/000618f7-e0d0-43dc-ae15-2b20d948852f | Sierra | Software Engineer, Agent - Insurance | San Francisco, CA · New York, NY · New York · United States · Atlanta, GA · Atlanta
+- [ ] https://jobs.ashbyhq.com/sierra/013d54ba-6658-448b-9de6-c7ba8dcad77f | Sierra | Forward Deployed Infrastructure Engineer | London
+- [ ] https://jobs.ashbyhq.com/sierra/032c8ab4-1911-4477-bc39-9cfcd701d5a9 | Sierra | Software Engineer, Voice | San Francisco, CA
+- [ ] https://jobs.ashbyhq.com/sierra/1162dcd2-b181-49d5-9316-342cd68acbed | Sierra | Software Engineer, Agent (Thai Speaking) | Singapore
+- [ ] https://jobs.ashbyhq.com/sierra/119977f8-4e2e-4518-b2ab-2100ec425bda | Sierra | Forward Deployed Infrastructure Engineer | Tokyo
+- [ ] https://jobs.ashbyhq.com/sierra/201c6046-acb5-4fd4-a685-e993f34ec0d1 | Sierra | Software Engineer, Security | San Francisco, CA
+- [ ] https://jobs.ashbyhq.com/sierra/3914e14a-2339-4d49-97e8-3a0de793cfb1 | Sierra | Software Engineer, Site Reliability (SRE) | San Francisco, CA
+- [ ] https://jobs.ashbyhq.com/sierra/43e6eda7-6e46-43e8-82a5-6e5035f063bb | Sierra | Software Engineer, Agent | Singapore
+- [ ] https://jobs.ashbyhq.com/sierra/5ae78769-a3a1-491c-8b4b-95472f1fb36c | Sierra | Software Engineer, Product | San Francisco, CA
+- [ ] https://jobs.ashbyhq.com/sierra/6207b02d-d334-4000-b84e-2af779171838 | Sierra | Software Engineer, Agent (Italian speaking) | London
+- [ ] https://jobs.ashbyhq.com/sierra/78c5dce4-3670-4c9b-a666-98f435c56324 | Sierra | Software Engineer, Agent Data Platform | San Francisco, CA
+- [ ] https://jobs.ashbyhq.com/sierra/802d17c5-fe47-4b44-90e5-65e5e731ff88 | Sierra | Software Engineer, Infrastructure | San Francisco, CA
+- [ ] https://jobs.ashbyhq.com/sierra/8cca0a0d-7359-410b-81ed-331a0bb4667f | Sierra | Software Engineer, Insights | San Francisco, CA
+- [ ] https://jobs.ashbyhq.com/sierra/8fe2757e-13e9-47e0-9d5a-90b2596a975c | Sierra | Software Engineer, Payments Infrastructure | San Francisco, CA
+- [ ] https://jobs.ashbyhq.com/sierra/9b70b937-9634-4bcd-a10e-2671145f3a07 | Sierra | Software Engineer, Agent Builder | San Francisco, CA
+- [ ] https://jobs.ashbyhq.com/sierra/9d9e7d4a-2a27-4f64-9b1f-d79c5d3f129a | Sierra | Software Engineer, Agent (French speaking) | London
+- [ ] https://jobs.ashbyhq.com/sierra/9ebc3a79-82bf-478d-bd98-d473d41bdeaf | Sierra | Software Engineer, Agent (German speaking) | London
+- [ ] https://jobs.ashbyhq.com/sierra/aadfc0a0-93f6-454b-9767-c24793fa3eff | Sierra | Software Engineer, Agent (Spanish speaking) | London
+- [ ] https://jobs.ashbyhq.com/sierra/ab98160c-9918-483c-af74-310535448972 | Sierra | Software Engineer, Agent - Financial Services | San Francisco, CA · New York, NY · New York · United States · Atlanta, GA · Atlanta
+- [ ] https://jobs.ashbyhq.com/sierra/ae8840cd-f46e-4c96-87b1-53fedf40f94d | Sierra | Software Engineer, Agent (Dutch speaking) | London
+- [ ] https://jobs.ashbyhq.com/sierra/b37a6f9e-53c7-4c47-beb5-1ab4451f3001 | Sierra | Software Engineer, Agent (Cantonese Speaking) | Singapore
+- [ ] https://jobs.ashbyhq.com/sierra/b8a89b9a-70a1-4e47-874c-41542d1bc60a | Sierra | Software Engineer, Agent (Korean Speaking) | Singapore
+- [ ] https://jobs.ashbyhq.com/sierra/ce463311-0c6c-43d9-ab79-dd751743104f | Sierra | Software Engineer, Agent (Arabic speaking) | London
+- [ ] https://jobs.ashbyhq.com/sierra/d77487f9-bab3-44c6-be18-744e7125c8b3 | Sierra | Software Engineer, Platform | San Francisco, CA
+- [ ] https://jobs.ashbyhq.com/sierra/eb3ee157-3d2a-412a-88a2-e2cfc5647a66 | Sierra | Software Engineer, Agent - Healthcare | San Francisco, CA · New York, NY · New York · United States
+- [ ] https://jobs.ashbyhq.com/sierra/f391b10c-7a4a-42b4-9887-dd32b31d6e4e | Sierra | Software Engineer, Frontend | San Francisco, CA
+- [ ] https://jobs.ashbyhq.com/sierra/f4319197-e898-4756-a7f2-af884fe1e0c7 | Sierra | Software Engineer, Intelligence | San Francisco, CA
+- [ ] https://jobs.ashbyhq.com/sierra/f51d6c09-d767-4e86-bc62-216b2051e318 | Sierra | Software Engineer, Agent (Brazilian Portuguese speaking) | San Francisco, CA · New York, NY · New York · United States
+- [ ] https://jobs.ashbyhq.com/sierra/fc6eaada-479c-4ff6-be79-7e267b9ed2b4 | Sierra | Software Engineer, Identity & Enterprise Platform | San Francisco, CA
+- [ ] https://job-boards.eu.greenhouse.io/speechmatics/jobs/4792165101 | Speechmatics | Forward Deployed Engineer | San Francisco, California, United States
+- [ ] https://job-boards.greenhouse.io/later/jobs/8604889002 | Later | AI Automation Engineer Co-op | Vancouver, British Columbia, Canada
+- [ ] https://jobs.ashbyhq.com/langchain/74e5f9f4-e44a-4594-ba26-abdf71bf287d | LangChain | Python OSS Engineer | San Francisco, CA · Boston, MA · Cambridge · United States
+- [ ] https://jobs.ashbyhq.com/langchain/ddf92275-1cc3-49c0-9f25-e8ded43b07f6 | LangChain | FullStack Engineer, AI Observability & Evals Platform (LangSmith) | San Francisco, CA · Boston, MA · Cambridge · United States · New York, NY · New York
+- [ ] https://jobs.ashbyhq.com/langchain/c75915ba-a32b-4e17-873d-19b47564170d | LangChain | Fullstack Software Engineer, Applied AI | San Francisco, CA · New York, NY · New York · United States
+- [ ] https://jobs.ashbyhq.com/zapier/38434b88-086c-424b-8d18-8d006e0b71b8 | Zapier | Engineer, Applied AI | NAMER · EMEA
+- [ ] https://jobs.ashbyhq.com/zapier/6948a0e6-a580-4e9d-b109-20652d9a1507 | Zapier | Software Engineer, Release Engineering | India
+- [ ] https://job-boards.greenhouse.io/safariai/jobs/5033427007 | Safari AI | Opportunity Hire, ex-founder/founding engineer | North America
+- [ ] https://jobs.ashbyhq.com/klue/47de8ec1-6e3e-4e9a-af1d-931a6013e57e | Klue | Software Engineer II, AI | Toronto, Ontario
+- [ ] https://jobs.ashbyhq.com/cohere/031c2335-db85-4265-8a88-a54b911be36a | Cohere | Forward Deployed Engineer, Agentic Platform (Korea) | Korea
+- [ ] https://jobs.ashbyhq.com/cohere/1fa01a03-9253-4f62-8f10-0fe368b38cb9 | Cohere | Forward Deployed Engineer, Agentic Platform (West Coast) | San Francisco · Salt Lake City · United States · Phoenix · Seattle · Los Angeles · Vancouver · Canada
+- [ ] https://jobs.ashbyhq.com/cohere/2d256112-b336-4539-8133-a0bf7f6698f0 | Cohere | Forward Deployed Engineer, Agentic Platform (UK/Europe) | Europe · Brussels · Belgium · Munich · Germany · London · United Kingdom · Edinburgh · Paris · France · Berlin · Frankfurt
+- [ ] https://jobs.ashbyhq.com/cohere/38f75a48-199c-4325-a7f8-2af6ed6a1b3b | Cohere | Forward Deployed Engineer, Infrastructure Specialist | Tokyo · Japan
+- [ ] https://jobs.ashbyhq.com/cohere/4a3c3eb2-ae2e-4a86-a677-7bdecbc7d76e | Cohere | Software Engineer, Agents & Automations | London · Europe · European Union · Canada · United States · San Francisco
+- [ ] https://jobs.ashbyhq.com/cohere/52a2b83b-7537-4e88-af7b-e4e9630a96e0 | Cohere | Forward Deployed Engineer, Infrastructure Specialist (Public Sector) | Ottawa · Canada
+- [ ] https://jobs.ashbyhq.com/cohere/556467eb-3dc8-46e2-b015-277872210997 | Cohere | Forward Deployed Engineer, Sovereign AI | Ottawa · Canada · Vancouver · Toronto
+- [ ] https://jobs.ashbyhq.com/cohere/5d31ba60-683a-4d59-8059-3f728b772a9e | Cohere | Data Annotation Specialist, Software Engineering | Canada · Calgary · Vancouver · Toronto · Montreal
+- [ ] https://jobs.ashbyhq.com/cohere/69a9ab2e-a7eb-4c4f-825a-5c25cf063900 | Cohere | Forward Deployed Engineer, Infrastructure Specialist (Europe/Middle East) | United Kingdom · Dubai · United Arab Emirates · Brussels · Belgium · Europe · European Union · Munich · Germany · Saudi Arabia · London · Edinburgh · Paris · France · Berlin · Middle East · Riyadh · Frankfurt
+- [ ] https://jobs.ashbyhq.com/cohere/6aa3cb2b-ee8b-4c92-b505-3a7509f80d7f | Cohere | Software Engineer, Data Infrastructure | New York · San Francisco · United States · Canada · Toronto · Montreal
+- [ ] https://jobs.ashbyhq.com/cohere/732c05f5-a9ec-43a3-9ae4-3ec7f7630fff | Cohere | Software Engineer, Adoption | London · Europe · European Union · Canada · United States · San Francisco
+- [ ] https://jobs.ashbyhq.com/cohere/75c0032c-7200-48bf-9d6d-355880dd93d9 | Cohere | Forward Deployed Engineer, Agentic Platform | Middle East · Dubai · United Arab Emirates · Saudi Arabia · Riyadh
+- [ ] https://jobs.ashbyhq.com/cohere/9c18b199-cd1f-4ef3-9fab-ce05589348ae | Cohere | Forward Deployed Engineer, Agentic Platform (Singapore) | Singapore
+- [ ] https://jobs.ashbyhq.com/cohere/b9c8c98e-b0fa-43b6-93b0-fa780d956066 | Cohere | Software Engineer, Security | Toronto · San Francisco · United States · New York · Montreal · Canada
+- [ ] https://jobs.ashbyhq.com/cohere/be48aafc-9610-4ebd-8414-a0722a3cd59a | Cohere | Forward Deployed Engineer, Infrastructure Specialist (North America) | Toronto · Canada · Vancouver · Ottawa · Montreal
+- [ ] https://jobs.ashbyhq.com/cohere/d81c28f5-2945-4c49-bc5b-86e345334cfb | Cohere | Counsel, Privacy and AI Regulation (EU) | Europe · European Union
+- [ ] https://jobs.ashbyhq.com/cohere/ef9b939d-da66-464c-a878-ef45616c0473 | Cohere | Software Engineer, GPU Infrastructure (HPC) | Canada · United States · San Francisco
+- [ ] https://jobs.ashbyhq.com/cohere/f722247c-291b-44ee-af67-5159b8d5d9b9 | Cohere | Software Engineer, North for Finance | Europe · Canada · United States · San Francisco
+- [ ] https://jobs.ashbyhq.com/attio/010b8206-5968-4a03-8052-d9339762f766 | Attio | Solutions Engineer \[Pre and Post-Sales\] - SMB | London
+- [ ] https://jobs.ashbyhq.com/attio/26c31052-b667-46ae-b459-049018e55e96 | Attio | Forward Deployed Engineer | San Francisco
+- [ ] https://jobs.ashbyhq.com/attio/70c55694-4f19-4077-b7fc-aa130048af62 | Attio | Product Engineer | London · United Kingdom
+- [ ] https://jobs.ashbyhq.com/attio/d48617ff-be9b-41cd-aff7-3ad2f826ca74 | Attio | Solutions Engineer \[Pre and Post-Sales\] - Mid-Market | New York · San Francisco · US
+- [ ] https://job-boards.greenhouse.io/hootsuite/jobs/7943876 | Hootsuite | AI Social Strategist | Vancouver, British Columbia
+- [ ] https://job-boards.greenhouse.io/hootsuite/jobs/7963045 | Hootsuite | Intermediate Software Developer, Backend | Bucharest, Romania
+- [ ] https://jobs.ashbyhq.com/DeepL/0f8a70b7-d28a-4db6-be61-5886863c22ea | DeepL | Developer Growth, API & Agentic AI Products | Austin
+- [ ] https://jobs.ashbyhq.com/DeepL/8d258c9c-f3d2-40cc-ba19-1be287445141 | DeepL | Software Engineer / API | New York
+- [ ] https://job-boards.greenhouse.io/blackforestlabs/jobs/4935984008 | Black Forest Labs | Forward Deployed Machine Learning Engineer | San Francisco (USA)
+- [ ] https://job-boards.greenhouse.io/blackforestlabs/jobs/5276450008 | Black Forest Labs | Forward Deployed Robotics Engineer | Freiburg (Germany)
+- [ ] https://helsing.ai/jobs/4911999101?gh_jid=4911999101 | Helsing | AI Research Engineer - 3D Computer Vision | Berlin; London; Munich; Paris
+- [ ] https://helsing.ai/jobs/4334849101?gh_jid=4334849101 | Helsing | AI Research Engineer - AI Safety | Berlin; London; Munich
+- [ ] https://helsing.ai/jobs/4334842101?gh_jid=4334842101 | Helsing | AI Research Engineer - Computer Vision | Berlin; London; Munich
+- [ ] https://helsing.ai/jobs/4766708101?gh_jid=4766708101 | Helsing | AI Research Engineer - Foundation Models | Berlin; London; Munich; Paris
+- [ ] https://helsing.ai/jobs/4778869101?gh_jid=4778869101 | Helsing | AI Research Engineer - ML Engineering | Berlin; London; Munich
+- [ ] https://helsing.ai/jobs/4372802101?gh_jid=4372802101 | Helsing | AI Research Engineer - ML & Signal Processing | Berlin; Munich
+- [ ] https://helsing.ai/jobs/4676357101?gh_jid=4676357101 | Helsing | AI Research Engineer - Reinforcement Learning | Barcelona; Berlin; London; Munich; Paris
+- [ ] https://helsing.ai/jobs/4423924101?gh_jid=4423924101 | Helsing | AI Research Engineer - Robotics | Barcelona; Paris
+- [ ] https://helsing.ai/jobs/4516967101?gh_jid=4516967101 | Helsing | Deployed AI Engineer | Berlin; London; Munich; Paris; Stockholm; Tallinn
+- [ ] https://helsing.ai/jobs/4737931101?gh_jid=4737931101 | Helsing | Software Engineer | Berlin; Munich
+- [ ] https://helsing.ai/jobs/4741565101?gh_jid=4741565101 | Helsing | Software Engineer - Airborne Mission Systems | Berlin; Munich
+- [ ] https://helsing.ai/jobs/4741571101?gh_jid=4741571101 | Helsing | Software Engineer - Autonomous Air Systems | Berlin; Munich
+- [ ] https://helsing.ai/jobs/4741219101?gh_jid=4741219101 | Helsing | Software Engineer - Autonomous Air System V&V | Berlin; Munich
+- [ ] https://helsing.ai/jobs/4125061101?gh_jid=4125061101 | Helsing | Software Engineer - Backend | Berlin; London; Munich; Paris; Stockholm; Tallinn
+- [ ] https://helsing.ai/jobs/4900453101?gh_jid=4900453101 | Helsing | Software Engineer, DevSecOps | Washington, DC
+- [ ] https://helsing.ai/jobs/4126378101?gh_jid=4126378101 | Helsing | Software Engineer - Frontend | Munich - Berlin - London
+- [ ] https://helsing.ai/jobs/4741224101?gh_jid=4741224101 | Helsing | Software Engineer - Frontend Autonomous Air System V&V | Berlin; Munich
+- [ ] https://helsing.ai/jobs/4741242101?gh_jid=4741242101 | Helsing | Software Engineer - Ground to Air HMI | Berlin; Munich
+- [ ] https://helsing.ai/jobs/4729613101?gh_jid=4729613101 | Helsing | Software Engineer - Infrastructure | Washington, DC
+- [ ] https://helsing.ai/jobs/4900456101?gh_jid=4900456101 | Helsing | Software Engineer, Platform Engineering | Washington, DC
+- [ ] https://helsing.ai/jobs/4900446101?gh_jid=4900446101 | Helsing | Software Engineer, Rust | Washington, DC
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7765936003?gh_jid=7765936003 | Celonis | Associate (AI) Solution Consultant (Benelux) - Orbit Program | Madrid, Spain
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7762505003?gh_jid=7762505003 | Celonis | Associate (AI) Solution Consultant (Scale EMEA/German-Speaking) - Orbit Program | Madrid, Spain
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7662738003?gh_jid=7662738003 | Celonis | Associate Applied (AI) Value Engineer (APAC) - Orbit Program | Madrid, Spain
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7795941003?gh_jid=7795941003 | Celonis | Associate Applied (AI) Value Engineer (Benelux) - Orbit Program | Madrid, Spain
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7795949003?gh_jid=7795949003 | Celonis | Associate Applied (AI) Value Engineer (Scale EMEA/German-Speaking) - Orbit Program | Madrid, Spain
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7725788003?gh_jid=7725788003 | Celonis | Associate Value Engineer (AI-Driven Data Science & Analytics) - Orbit Program | New York, US, New York
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7696087003?gh_jid=7696087003 | Celonis | Client Engagement Partner - AI-Driven Transformation & Process Intelligence | Paris, France
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7777097003?gh_jid=7777097003 | Celonis | Client Engagement Partner - AI-Driven Transformation & Process Intelligence (Logistics/Transportation) | Munich, Germany
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7771534003?gh_jid=7771534003 | Celonis | Client Engagement Partner - AI-Driven Transformation & Process Intelligence (Pharma) | Zürich, Switzerland
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7714520003?gh_jid=7714520003 | Celonis | Client Value Partner - AI-Driven Transformation & Process Intelligence | Paris, France
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7777096003?gh_jid=7777096003 | Celonis | Client Value Partner- AI-Driven Transformation & Process Intelligence (Logistics/Transportation) | Munich, Germany
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7771535003?gh_jid=7771535003 | Celonis | Client Value Partner (CVP) - AI-Driven Transformation & Process Intelligence (Pharma) | Zürich, Switzerland
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7610416003?gh_jid=7610416003 | Celonis | Field CTO - AI & Enterprise Modernization | Munich, Germany
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7610415003?gh_jid=7610415003 | Celonis | Field CTO - AI & Enterprise Modernization | London, United Kingdom
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7781577003?gh_jid=7781577003 | Celonis | Partner Solutions Engineer | New York, US, New York
+- [ ] https://job-boards.greenhouse.io/contentful/jobs/7557597 | Contentful | Fullstack Software Engineer (f/m/d) | Berlin, Berlin, Germany
+- [ ] https://careers.hellofresh.com/global/en/job/8044891?gh_jid=8044891 | HelloFresh | AI and Automation Specialist | Manila, Manila, Philippines
+- [ ] https://careers.hellofresh.com/global/en/job/7950249?gh_jid=7950249 | HelloFresh | Backend Engineer, Consumer Alliance | Warszawa, Masovian Voivodeship, Poland
+- [ ] https://careers.hellofresh.com/global/en/job/7954132?gh_jid=7954132 | HelloFresh | Backend Engineer, Food Planning (all genders) | Warszawa, Masovian Voivodeship, Poland
+- [ ] https://careers.hellofresh.com/global/en/job/7653839?gh_jid=7653839 | HelloFresh | Backend Engineer, Payments Offering (all genders) | Warszawa, Masovian Voivodeship, Poland
+- [ ] https://careers.hellofresh.com/global/en/job/7387627?gh_jid=7387627 | HelloFresh | \[HelloConnect\] Product Data Analyst (SQL/Python) | Manila, Manila, Philippines
+- [ ] https://careers.hellofresh.com/global/en/job/7965496?gh_jid=7965496 | HelloFresh | IT Support Engineer - Enterprise AI | Manila, Manila, Philippines
+- [ ] https://careers.hellofresh.com/global/en/job/8036564?gh_jid=8036564 | HelloFresh | Software Developer, Operations Technology | Toronto, Ontario, Canada
+- [ ] https://n26.com/en-eu/careers/positions/8045342?gh_jid=8045342 | N26 | Backend Engineer – Core Systems | Barcelona
+- [ ] https://n26.com/en-eu/careers/positions/7992781?gh_jid=7992781 | N26 | Backend Engineer - Customer Identity | Barcelona
+- [ ] https://n26.com/en-eu/careers/positions/7925103?gh_jid=7925103 | N26 | Backend Engineer - Engagement | Barcelona
+- [ ] https://n26.com/en-eu/careers/positions/7899294?gh_jid=7899294 | N26 | Backend Engineer - Payments | Berlin, Barcelona
+- [ ] https://n26.com/en-eu/careers/positions/7960138?gh_jid=7960138 | N26 | Backend Engineer - Subscriptions | Barcelona
+- [ ] https://n26.com/en-eu/careers/positions/7992777?gh_jid=7992777 | N26 | Junior Backend Engineer - Lending | Barcelona
+- [ ] https://sumup.com/careers/positions/8497866002?gh_jid=8497866002 | SumUp | Backend engineer (Go)- Payments Experience | Sofia, Bulgaria
+- [ ] https://sumup.com/careers/positions/8427119002?gh_jid=8427119002 | SumUp | Backend Engineer - POS | Berlin, Germany
+- [ ] https://sumup.com/careers/positions/8388972002?gh_jid=8388972002 | SumUp | Backend Engineer - Transfers Gateway | Vilnius, Lithuania
+- [ ] https://sumup.com/careers/positions/8597489002?gh_jid=8597489002 | SumUp | Fullstack Engineer | Sofia, Bulgaria
+- [ ] https://sumup.com/careers/positions/8518456002?gh_jid=8518456002 | SumUp | Fullstack Engineer | Copenhagen, Denmark
+- [ ] https://sumup.com/careers/positions/8529496002?gh_jid=8529496002 | SumUp | Full Stack Engineer - Billings & Subscriptions | Berlin, Germany
+- [ ] https://sumup.com/careers/positions/8545005002?gh_jid=8545005002 | SumUp | Software Engineer (Golang) - Online Payments | Sofia, Bulgaria
+- [ ] https://jobs.ashbyhq.com/lakera.ai/12b50d6e-3977-45e7-975a-6a72ebb1312d | Lakera | Solutions Engineer (Washington D.C.) | Boston
+- [ ] https://jobs.ashbyhq.com/lakera.ai/15ab5a5a-2c7a-4fc9-822d-68759d5e4db4 | Lakera | Solutions Engineer (Amsterdam, Netherlands) | Germany
+- [ ] https://jobs.ashbyhq.com/lakera.ai/24ddfe7e-f7f8-41f9-b3c9-26f59f636c7e | Lakera | Solutions Engineer (Pittsburgh, Pennsylvania) | Boston
+- [ ] https://jobs.ashbyhq.com/lakera.ai/25b1cf59-fee8-4009-a36f-2b0b83b3cc56 | Lakera | Software Engineer, Agentic team | Zürich
+- [ ] https://jobs.ashbyhq.com/lakera.ai/27130c78-fb9a-436b-a8a1-6445b1bcf329 | Lakera | Solutions Engineer (Singapore) | Singapore
+- [ ] https://jobs.ashbyhq.com/lakera.ai/4572ad9c-3a65-499b-aa93-6389bbb4752a | Lakera | Solutions Engineer (Los Angeles, California) | Los Angeles
+- [ ] https://jobs.ashbyhq.com/lakera.ai/5c6852fb-6fed-4d45-866a-98fb8adfbfb0 | Lakera | Enterprise Account Executive, AI Security (Seattle) | Seattle
+- [ ] https://jobs.ashbyhq.com/lakera.ai/6affd7e7-4efa-49d0-b577-571177d533d2 | Lakera | Solutions Engineer (Germany) | Germany
+- [ ] https://jobs.ashbyhq.com/lakera.ai/792d73ef-829e-460b-9d90-f08890a5b6f6 | Lakera | Solutions Engineer (Italy) | Italy
+- [ ] https://jobs.ashbyhq.com/lakera.ai/85ed83e1-483a-424a-8e7b-9c8fd7adb0cd | Lakera | Solutions Engineer (Fremont, California) | Fremont
+- [ ] https://jobs.ashbyhq.com/lakera.ai/872517f6-7ecb-4f5b-90c6-848d3ff4a8bf | Lakera | Solutions Engineer (Sacramento, California) | Sacramento
+- [ ] https://jobs.ashbyhq.com/lakera.ai/97940de3-1bbb-4609-87f2-cc3397c1242d | Lakera | Solutions Engineer (San Jose, California) | San Jose
+- [ ] https://jobs.ashbyhq.com/lakera.ai/a08b489f-d492-4cb5-9c78-301440580cb3 | Lakera | Solutions Engineer (Tokyo) | Japan
+- [ ] https://jobs.ashbyhq.com/lakera.ai/a093ea56-8918-4902-b5e4-f2d736e15940 | Lakera | Solutions Engineer (Mountain View, California) | Mountain view
+- [ ] https://jobs.ashbyhq.com/lakera.ai/a741bb5f-9556-4e5a-84ad-00344ce1d5ab | Lakera | Solutions Engineer (San Diego, California) | San Diego
+- [ ] https://jobs.ashbyhq.com/lakera.ai/b286cb02-de27-4f6b-866a-2262dfcacacd | Lakera | Solutions Engineer (Jersey City, New Jersey) | Boston
+- [ ] https://jobs.ashbyhq.com/lakera.ai/be24c900-5253-4e41-a4f9-1ad3a294d202 | Lakera | Solutions Engineer (London) | London
+- [ ] https://jobs.ashbyhq.com/lakera.ai/da6a7e0b-39bc-4bec-aafe-10669baf2434 | Lakera | Solutions Engineer (New York City, New York) | New York
+- [ ] https://jobs.ashbyhq.com/lakera.ai/dcaef0d1-fdcb-4299-9f3e-1aba87dc33b2 | Lakera | Solutions Engineer (Boston, Massachusetts) | Boston
+- [ ] https://jobs.ashbyhq.com/lakera.ai/df924d15-e52e-4ddb-a3de-127d53f4c76a | Lakera | Solutions Engineer (Amsterdam) | Amsterdam
+- [ ] https://jobs.ashbyhq.com/lakera.ai/f258a3ea-273d-4c07-b8f1-e01134149456 | Lakera | Enterprise Account Exeuctive, AI Security (San Francisco) | San Francisco
+- [ ] https://jobs.ashbyhq.com/lakera.ai/f476a0ea-dfda-459e-a90d-e28bc9c6a2a1 | Lakera | Solutions Engineer (Philadelphia, Pennsylvania) | Boston
+- [ ] https://traderepublic.com/en-de/about?jobId=6539149003&gh_jid=6539149003 | Trade Republic | Backend Engineer (Berlin) | Berlin
+- [ ] https://traderepublic.com/en-de/about?jobId=7718242003&gh_jid=7718242003 | Trade Republic | Backend Engineer (Haskell) | Berlin
+- [ ] https://traderepublic.com/en-de/about?jobId=6327292003&gh_jid=6327292003 | Trade Republic | Backend Engineer (London) | London
+- [ ] https://traderepublic.com/en-de/about?jobId=6539038003&gh_jid=6539038003 | Trade Republic | Backend Engineer (Paris) | Paris
+- [ ] https://traderepublic.com/en-de/about?jobId=7775140003&gh_jid=7775140003 | Trade Republic | Platform Engineer – Backend & Reliability | Berlin; London; Paris
+- [ ] https://wayve.firststage.co/jobs?gh_jid=8431122002 | Wayve | Application Software Engineer | Germany
+- [ ] https://wayve.firststage.co/jobs?gh_jid=8610265002 | Wayve | Software Engineer (Product, AI Portal) | London
+- [ ] https://wayve.firststage.co/jobs?gh_jid=8542296002 | Wayve | Systems Engineer, AI Validation | Sunnyvale
+- [ ] https://job-boards.eu.greenhouse.io/physicsx/jobs/4880930101 | PhysicsX | Forward Deployed Software Engineer | San Francisco, United States
+- [ ] https://job-boards.eu.greenhouse.io/physicsx/jobs/4652630101 | PhysicsX | Machine Learning Software Engineer, Research | London, United Kingdom
+- [ ] https://job-boards.eu.greenhouse.io/physicsx/jobs/4820418101 | PhysicsX | Software Engineer - Go & Python (Core Services) | London
+- [ ] https://jobs.eu.lever.co/diabolocom/e0df889a-6589-4b09-8b14-76b1511564f6 | Diabolocom | AI Research Engineer (Speech & Conversational AI) | Paris
+- [ ] https://jobs.eu.lever.co/diabolocom/8d1a1bfe-9f81-4363-9ad3-6f3722294c7f | Diabolocom | Python Backend Engineer – Virtual Agent Team (Remote) | Paris
+- [ ] https://job-boards.greenhouse.io/isomorphiclabs/jobs/6108952004 | Isomorphic Labs | Software Engineer (Inference Platform), London | London
+- [ ] https://job-boards.greenhouse.io/isomorphiclabs/jobs/5539669004 | Isomorphic Labs | Software Engineer (TechOps), London | London
+- [ ] https://jobs.ashbyhq.com/synthesia/c2d3d3a8-f7b8-45f5-ad89-dba6ac14625c | Synthesia | ML Platform Engineer | Europe
+- [ ] https://jobs.ashbyhq.com/faculty/67645c5e-abe8-434f-8013-f13e82259e81 | Faculty | Full Stack Software Engineer | UK - London
+- [ ] https://jobs.ashbyhq.com/faculty/6c9b3973-b841-434f-8e77-f6078b364549 | Faculty | Software Engineer | UK - London
+- [ ] https://jobs.ashbyhq.com/faculty/91c88cf4-cf93-43da-8d02-01a4fc8d9da5 | Faculty | Software Engineer | UK - London
+- [ ] https://jobs.ashbyhq.com/faculty/ffb24889-b115-4f6e-8d69-cc385b95dac7 | Faculty | Software Engineer - Platform | UK - London
+- [ ] https://jobs.ashbyhq.com/lovable/1f86955c-2748-4cd6-bd69-7e5c2c3fe465 | Lovable | Software Engineer, Security (Product) | Stockholm
+- [ ] https://jobs.ashbyhq.com/lovable/3b6525b4-8229-4b7e-a307-a550646d0483 | Lovable | Software Engineer, Platform (Runtime) | Stockholm
+- [ ] https://jobs.ashbyhq.com/lovable/4a2535cc-9b62-42d4-9401-941c465ee56b | Lovable | Fullstack Engineer - Lovable Apps Platform Team | Stockholm
+- [ ] https://jobs.ashbyhq.com/lovable/581951b9-537e-49d5-89fb-dd74cdf3256c | Lovable | Software Engineer, Growth | London
+- [ ] https://jobs.ashbyhq.com/lovable/7fe39289-1f7f-47d4-8002-d3aeeaaaabc6 | Lovable | Forward Deployed Engineer | London · San Francisco · United States · Boston · New York
+- [ ] https://jobs.ashbyhq.com/lovable/920b4099-00bc-4d5e-9469-2c955ef3a662 | Lovable | Software Engineer, Platform (Infrastructure) | Stockholm
+- [ ] https://jobs.ashbyhq.com/lovable/99f2854e-4937-4227-b96a-81269b5f871d | Lovable | Software Engineer, Platform (Developer Experience) | Stockholm
+- [ ] https://jobs.ashbyhq.com/lovable/aa38496f-0747-4761-bfb3-8b6127d9c81f | Lovable | Software Engineer, Enterprise | London
+- [ ] https://jobs.ashbyhq.com/lovable/c1126807-600a-4e60-8125-4274c451aa96 | Lovable | Software Engineer, Identity & Access | Stockholm
+- [ ] https://jobs.ashbyhq.com/lovable/cfef6fe1-e0c9-4139-8618-b51bfb1dc683 | Lovable | Data Platform Engineer | Stockholm
+- [ ] https://jobs.ashbyhq.com/lovable/e27e931e-79f3-483a-b543-57e42633ac5c | Lovable | Software Engineer, Security (AI Code) | Stockholm
+- [ ] https://jobs.ashbyhq.com/legora/2d5dd270-fa08-4c10-ae9c-1dd13da5beec | Legora | Solutions Engineer | Stockholm HQ
+- [ ] https://jobs.ashbyhq.com/legora/3ecb346f-1903-4d06-99ca-e28ef3806bbb | Legora | Software Engineer | Stockholm HQ
+- [ ] https://jobs.ashbyhq.com/legora/3f80dbce-825a-45f9-8180-f3dcfc153086 | Legora | Solutions Engineer, London | London
+- [ ] https://jobs.ashbyhq.com/legora/6dae34ec-2164-46de-bec7-a877b96a0f7c | Legora | AI Marketing Engineer | New York City
+- [ ] https://jobs.ashbyhq.com/legora/8aa3a02e-6081-4237-9994-bcf61d1de050 | Legora | Platform Engineer | Stockholm HQ
+- [ ] https://jobs.ashbyhq.com/legora/9a04bbd8-0583-48de-9606-431c01079b8b | Legora | Software Engineer | Stockholm HQ
+- [ ] https://jobs.ashbyhq.com/legora/f81a4b5e-7ef3-4946-a147-f6c0645e98ca | Legora | Software Engineer (AI Focus) | Stockholm HQ
+- [ ] https://jobs.lever.co/pigment/15e7b82c-ebf3-477c-96b5-96a3b25e0663 | Pigment | AI Deployment Strategist | Toronto
+- [ ] https://jobs.lever.co/pigment/a204cd46-bdae-4a7b-8c79-814432fcaf21 | Pigment | AI Product Designer | France
+- [ ] https://job-boards.eu.greenhouse.io/amplemarket/jobs/4488062101 | Amplemarket | Frontend Software Engineer | Remote, EMEA/LATAM
+- [ ] https://job-boards.eu.greenhouse.io/amplemarket/jobs/4066973101 | Amplemarket | Fullstack Software Engineer | Remote, EMEA/LATAM
+- [ ] https://job-boards.greenhouse.io/hightouch/jobs/6097447004 | Hightouch | AI Creative Designer, Email | Remote, United States
+- [ ] https://job-boards.greenhouse.io/hightouch/jobs/5618829004 | Hightouch | AI Strategy Consultant | Remote (North America)
+- [ ] https://job-boards.greenhouse.io/hightouch/jobs/6008745004 | Hightouch | Forward Deployed Creative Strategist | New York, New York, San Francisco, California, Remote
+- [ ] https://job-boards.greenhouse.io/hightouch/jobs/5718912004 | Hightouch | Forward Deployed Marketing Data Scientist | Remote (North America)
+- [ ] https://job-boards.greenhouse.io/hightouch/jobs/4620430004 | Hightouch | Full Stack Product Engineer | Remote (North America)
+- [ ] https://job-boards.greenhouse.io/hightouch/jobs/5823552004 | Hightouch | Go-to-Market Engineer | Remote, United States
+- [ ] https://job-boards.greenhouse.io/hightouch/jobs/6011820004 | Hightouch | Partner Solutions Engineer | Remote (North America)
+- [ ] https://job-boards.greenhouse.io/hightouch/jobs/5542602004 | Hightouch | Software Engineer, AI Agents | Remote (North America)
+- [ ] https://job-boards.greenhouse.io/hightouch/jobs/5983891004 | Hightouch | Software Engineer, Control Plane | Remote (North America)
+- [ ] https://job-boards.greenhouse.io/hightouch/jobs/5983811004 | Hightouch | Software Engineer, Customer Studio Backend | Remote (North America)
+- [ ] https://job-boards.greenhouse.io/hightouch/jobs/4782632004 | Hightouch | Software Engineer, Distributed Systems | Remote (North America)
+- [ ] https://job-boards.greenhouse.io/hightouch/jobs/6004706004 | Hightouch | Software Engineer, Native Delivery | Remote (North America)
+- [ ] https://job-boards.greenhouse.io/hightouch/jobs/5983863004 | Hightouch | Software Engineer, Streaming Systems | Remote (North America)
+- [ ] https://job-boards.greenhouse.io/hightouch/jobs/5990367004 | Hightouch | Solutions Engineer - EMEA | EMEA
+- [ ] https://job-boards.greenhouse.io/hightouch/jobs/5134194004 | Hightouch | Solutions Engineer, Enterprise East (Pre-Sales) | East and Central Timezones (North America)
+- [ ] https://job-boards.greenhouse.io/hightouch/jobs/5852695004 | Hightouch | Solutions Engineer, Enterprise (Pre-Sales) - German speaking | Europe
+- [ ] https://job-boards.greenhouse.io/hightouch/jobs/5530769004 | Hightouch | Solutions Engineer, Enterprise West (Pre-Sales) | West and Mountain Timezones (North America)
+- [ ] https://job-boards.greenhouse.io/hightouch/jobs/5535187004 | Hightouch | Solutions Engineer, Mid-Market (Pre-Sales) | Remote (North America)
+- [ ] https://jobs.ashbyhq.com/workos/07a7d732-ac5d-4aab-b4bf-ee89951660c2 | WorkOS | Software Engineer - Productivity | United States & Canada
+- [ ] https://jobs.ashbyhq.com/workos/10d184bd-7b94-4205-8dc5-d3e3ede9bdc2 | WorkOS | Product Engineer - Radar | United States & Canada
+- [ ] https://jobs.ashbyhq.com/workos/1269a212-2b49-4e99-a379-fc47f1d76e46 | WorkOS | Product Engineer - Pipes & Vault | United States & Canada
+- [ ] https://jobs.ashbyhq.com/workos/5e650527-d8dd-413a-9cfb-d7d68143274b | WorkOS | Applied AI Engineer | United States & Canada
+- [ ] https://jobs.ashbyhq.com/workos/639bcb50-f1dd-4756-aa45-ce176494b4b1 | WorkOS | Product Engineer - Feature Flags | United States & Canada
+- [ ] https://jobs.ashbyhq.com/workos/8317f6f4-3d85-4a9f-bec3-753e4b646fc2 | WorkOS | Product Engineer - AuthKit | United States & Canada
+- [ ] https://jobs.ashbyhq.com/workos/afdd651f-c97a-4ba2-88af-c790eb9e1a1d | WorkOS | GTM - AI Native Sales | San Francisco · New York City · United States
+- [ ] https://jobs.ashbyhq.com/workos/d76843a8-2a45-444a-b187-3336b45a7934 | WorkOS | Product Engineer - Enterprise | United States & Canada
+- [ ] https://jobs.ashbyhq.com/workos/dc23fd7b-ee4c-4e6a-959a-209b2eab8b17 | WorkOS | Solutions Engineer | San Francisco
+- [ ] https://jobs.ashbyhq.com/claylabs/045ce27d-8693-4402-86f6-2f09932cc777 | Clay Labs | Software Engineer, Full Stack | New York · San Francisco · United States
+- [ ] https://jobs.ashbyhq.com/claylabs/1b1c004f-0e6a-41b6-bac3-971448b63a07 | Clay Labs | GTME Ecosystem - GTME & AI Teacher | New York
+- [ ] https://jobs.ashbyhq.com/claylabs/232ab8c1-36d7-4114-91c1-0f9c9e4064bc | Clay Labs | Solutions Engineer | New York · San Francisco · United States
+- [ ] https://jobs.ashbyhq.com/claylabs/248aa0c7-034f-47d3-a57e-ce16736eeab6 | Clay Labs | Software Engineer, Backend | New York · San Francisco · United States
+- [ ] https://jobs.ashbyhq.com/claylabs/26c9a251-b616-49f7-a489-4d393a02ea5f | Clay Labs | Forward Deployed GTME | New York · San Francisco · United States
+- [ ] https://jobs.ashbyhq.com/claylabs/9b008b26-189b-45cf-83d8-fee117d32874 | Clay Labs | Software Engineer, Developer Experience (AI) | New York · San Francisco · United States
+- [ ] https://jobs.ashbyhq.com/resend/053bde8f-294e-4cce-9d62-2301282120a2 | Resend | Backend Engineer (MTA), Core Sending | Americas / Remote / Full-time
+- [ ] https://jobs.ashbyhq.com/resend/61dbb0e7-95a6-4cd9-ab2d-1a5471fe0dd8 | Resend | Product Engineer | Europe / Remote / Full-time
+- [ ] https://jobs.ashbyhq.com/resend/a95832a8-a2ab-4a63-8303-9989f1fc47d6 | Resend | Backend Engineer (Infra), Core Sending | Americas / Remote / Full-time
+- [ ] https://jobs.ashbyhq.com/inngest/ae72d036-b98b-4abb-8454-a687870cf0ca | Inngest | Distributed Systems Engineer - Platform | US/Remote · San Francisco · USA
+- [ ] https://job-boards.greenhouse.io/planetscale/jobs/4009938009 | PlanetScale | Software Engineer - Information Security | San Francisco Bay Area or Remote
+- [ ] https://job-boards.greenhouse.io/planetscale/jobs/4107018009 | PlanetScale | Software Engineer - Insights | San Francisco Bay Area or Remote
+- [ ] https://job-boards.greenhouse.io/planetscale/jobs/4280570009 | PlanetScale | Software Engineer - Neki Orchestration | San Francisco Bay Area or Remote
+- [ ] https://job-boards.greenhouse.io/planetscale/jobs/4251150009 | PlanetScale | Software Engineer - PlanetScale Postgres | Remote
+- [ ] https://job-boards.greenhouse.io/planetscale/jobs/4009746009 | PlanetScale | Software Engineer - PlanetScale Vitess | EMEA - Remote
+- [ ] https://job-boards.greenhouse.io/planetscale/jobs/4036240009 | PlanetScale | Software Engineer - Platform | EMEA Remote
+- [ ] https://job-boards.greenhouse.io/planetscale/jobs/4009936009 | PlanetScale | Software Engineer - Sharded Postgres (Neki) | San Francisco Bay Area or Remote
+- [ ] https://job-boards.greenhouse.io/planetscale/jobs/4052805009 | PlanetScale | Solutions Engineer | Remote - EMEA, Remote - NA
+- [ ] https://jobs.ashbyhq.com/supabase/e569b7f7-fa8f-4139-86f6-4f52b456882d | Supabase | Software Engineer - Auth | Remote
+- [ ] https://jobs.ashbyhq.com/supabase/b7206c22-979f-444a-809b-e70d9ee23c7f | Supabase | Software Engineer: IaC Platform Experience | Remote
+- [ ] https://jobs.lever.co/spotify/e8ef80ed-633f-45ec-a1fc-a55704241f64 | Spotify | Backend Engineer - Platform | Toronto
+- [ ] https://jobs.lever.co/spotify/7a6a7b30-828f-4a72-bc9f-09bafe2934b8 | Spotify | Full Stack Engineer - Advertising | New York, NY
+- [ ] https://jobs.lever.co/spotify/69524356-88f8-4a8e-b543-0198670e4ceb | Spotify | Full Stack Engineer - Podcast | New York, NY
+- [ ] https://jobs.lever.co/mistral/7894fd8a-ffc9-4c89-87f0-f8a7b695cf01 | Mistral AI | Account Executive – AI for Citizens | Paris
+- [ ] https://jobs.lever.co/mistral/ebbae799-78e9-4705-97bc-9f86d359f56f | Mistral AI | AI Deployment Strategist - Canada | Montreal
+- [ ] https://jobs.lever.co/mistral/087715c9-82b4-4c37-a22e-6f8086001751 | Mistral AI | AI Deployment Strategist - Korea | Seoul
+- [ ] https://jobs.lever.co/mistral/bb02882b-fb2e-4d06-9d5e-bd7654eee8e7 | Mistral AI | AI Deployment Strategist - Luxembourg | Luxembourg
+- [ ] https://jobs.lever.co/mistral/0cde829a-c9b9-4ee1-827f-9bd30c1810fc | Mistral AI | AI Deployment Strategist - Marseille | Marseille
+- [ ] https://jobs.lever.co/mistral/c9e2dbb5-00ed-4096-ba88-ac0bdffb68fd | Mistral AI | AI Deployment Strategist - MENA | Abu Dhabi
+- [ ] https://jobs.lever.co/mistral/8f93bac1-1885-41ea-8650-cb5454be97e7 | Mistral AI | AI Deployment Strategist - Morocco | Casablanca
+- [ ] https://jobs.lever.co/mistral/1937a5af-2c9b-4a75-bb91-b06ebe714dbd | Mistral AI | AI Deployment Strategist - Munich, Germany | Munich
+- [ ] https://jobs.lever.co/mistral/2aaf4e18-0943-4ebe-914d-cc9e32db8834 | Mistral AI | AI Deployment Strategist - Netherlands | Amsterdam
+- [ ] https://jobs.lever.co/mistral/f9697798-31f8-4809-87b6-05eeb5261353 | Mistral AI | AI Deployment Strategist - Paris | Paris
+- [ ] https://jobs.lever.co/mistral/55c2e8f4-a3ea-4e59-9ccf-dac2fee26c65 | Mistral AI | AI Deployment Strategist - Singapore | Singapore
+- [ ] https://jobs.lever.co/mistral/2aaf3b8e-3bee-46b7-9942-70351e63007f | Mistral AI | AI Deployment Strategist - Spain | Madrid
+- [ ] https://jobs.lever.co/mistral/ffbb8f6c-67de-4b25-b37c-0eafd11e7b4f | Mistral AI | AI Deployment Strategist - Sweden | Stockholm
+- [ ] https://jobs.lever.co/mistral/e59555e3-899d-4e1e-875f-90b825bc1e28 | Mistral AI | AI Deployment Strategist - UK | London
+- [ ] https://jobs.lever.co/mistral/1abe543d-4e31-4510-9782-ddab360080aa | Mistral AI | AI Deployment Strategist - USA | Palo Alto
+- [ ] https://jobs.lever.co/mistral/bfcc2d05-141a-49d3-aa4d-20d743ede9d9 | Mistral AI | AI Deployment Strategist, AI4Engineering - EMEA | Paris
+- [ ] https://jobs.lever.co/mistral/d9f2767e-cdab-4e07-9944-20bbc468613d | Mistral AI | AI Deployment Strategist, Cybersecurity - EMEA | Paris
+- [ ] https://jobs.lever.co/mistral/3ec6fd88-fc86-4c2c-bb5d-0c66876ba62d | Mistral AI | AI Deployment Strategist, MINDEF - Singapore | Singapore
+- [ ] https://jobs.lever.co/mistral/1fe045c3-40c3-4d6c-ad4a-89145f28b9fa | Mistral AI | AI Deployment Strategist, Public Sector - Singapore | Singapore
+- [ ] https://jobs.lever.co/mistral/84f85d72-f1ff-46da-b7a0-4bf37764db3a | Mistral AI | AI Deployment Strategist, Science - EMEA | Paris
+- [ ] https://jobs.lever.co/mistral/fd865fe4-7344-43b0-9d8d-600e8b366725 | Mistral AI | AI Developer Advocate | Paris
+- [ ] https://jobs.lever.co/mistral/3e8b03e7-ff33-4cd1-8042-90b7ac3c4683 | Mistral AI | AI Developer Advocate - Singapore | Singapore
+- [ ] https://jobs.lever.co/mistral/c79ff8ed-6689-4dda-aec6-979a5dc767d0 | Mistral AI | AI Engineer, Product | Paris
+- [ ] https://jobs.lever.co/mistral/94173e13-3050-4044-862a-e8dfc2deda5e | Mistral AI | AI Scientist - Audio | Paris
+- [ ] https://jobs.lever.co/mistral/7b20d2c8-d5a7-4efd-a13e-05d920ec5985 | Mistral AI | AI Scientist - Palo Alto | Palo Alto
+- [ ] https://jobs.lever.co/mistral/675b7f06-a76b-4144-af0c-4dd3282ef489 | Mistral AI | AI Scientist - Paris/London - Onsite or Hybrid or Remote | Paris
+- [ ] https://jobs.lever.co/mistral/60f9dc5b-6d1c-4236-be38-be7233669f00 | Mistral AI | AI Scientist - Robotics | Paris
+- [ ] https://jobs.lever.co/mistral/4e498cbf-151e-483a-b3f7-76ff64a22041 | Mistral AI | AI Scientist - Warsaw | Warsaw
+- [ ] https://jobs.lever.co/mistral/bedfc2aa-f1b6-4136-bd17-b3abe4c06120 | Mistral AI | AI Scientist - Zurich | Zurich
+- [ ] https://jobs.lever.co/mistral/98e6a2ea-7049-4c8d-88b7-c9d824eea6f1 | Mistral AI | Applied AI Engineer, CyberSecurity | Paris
+- [ ] https://jobs.lever.co/mistral/4eca6d89-c813-4f50-969c-b3ea88b6b956 | Mistral AI | Applied AI Engineer, Fullstack | Seoul
+- [ ] https://jobs.lever.co/mistral/aceffeba-c4e9-4b3b-adff-e7e78b986c5c | Mistral AI | Applied AI Engineer, Fullstack Software Engineer - EMEA | Paris
+- [ ] https://jobs.lever.co/mistral/3e51d533-1f2d-48e3-9a2b-33fc7e8b0c0c | Mistral AI | Applied AI Engineer, ML Infrastructure Engineer / Devops - EMEA | Paris
+- [ ] https://jobs.lever.co/mistral/ac195fdb-1731-4ce2-b47e-c1bb8c72c59d | Mistral AI | Applied AI Engineer, Prototyping | Paris
+- [ ] https://jobs.lever.co/mistral/a93b2891-9aaa-4c18-855e-37ef159d4eed | Mistral AI | Applied AI Engineer, Site Reliability Engineer - EMEA | Paris
+- [ ] https://jobs.lever.co/mistral/e0db3860-0a80-47a8-958a-f8e62f3bb59c | Mistral AI | Applied AI, Evaluation Engineer | Paris
+- [ ] https://jobs.lever.co/mistral/77f6fd1b-65cf-45d8-9b68-594c62732f62 | Mistral AI | Applied AI, Forward Deployed Machine Learning Engineer - EMEA | Paris
+- [ ] https://jobs.lever.co/mistral/a73cb128-b07e-437c-b82d-57b06661c52b | Mistral AI | Applied AI, Forward Deployed Machine Learning Engineer - Montreal | Montreal
+- [ ] https://jobs.lever.co/mistral/cb2137e6-d6b1-47d7-8450-6370a61f2b79 | Mistral AI | Applied AI, Forward Deployed Machine Learning Engineer - Morocco | Casablanca
+- [ ] https://jobs.lever.co/mistral/aff9f13c-e79f-4d66-98b1-f62dd1c552cd | Mistral AI | Applied AI, Forward Deployed Machine Learning Engineer - Munich | Munich
+- [ ] https://jobs.lever.co/mistral/0b476d3a-5f0c-4dda-9a5e-bd5ed8515328 | Mistral AI | Applied AI, Forward Deployed Machine Learning Engineer - Palo Alto | Palo Alto
+- [ ] https://jobs.lever.co/mistral/6fc7ccb5-47bb-4eab-aea0-55929403315d | Mistral AI | Applied AI, Forward Deployed Machine Learning Engineer- Singapore | Singapore
+- [ ] https://jobs.lever.co/mistral/c7b7fdfe-a071-4d62-bc15-7bcdff8067e7 | Mistral AI | Applied AI, Forward Deployed Machine Learning Engineer, Critical and Sovereign Institutions, EMEA | Paris
+- [ ] https://jobs.lever.co/mistral/de237900-114c-4e39-aa19-671bb3201eee | Mistral AI | Applied AI, Fullstack Software Engineer, Critical and Sovereign Institutions, Paris | Paris
+- [ ] https://jobs.lever.co/mistral/e6accd7d-27d5-45f0-9f35-3454064374af | Mistral AI | Applied AI, Machine Learning Engineer | Seoul
+- [ ] https://jobs.lever.co/mistral/49aa2bb7-5504-46d3-bc40-e1bcdb12cee2 | Mistral AI | Applied AI, Use-case, Software Engineer (Harness) | Paris
+- [ ] https://jobs.lever.co/mistral/4d689780-4995-4fe5-9b7e-e8c28a180397 | Mistral AI | Associate AI Deployment Strategist | Paris
+- [ ] https://jobs.lever.co/mistral/64c9a48e-6d23-4090-bf0f-5a979830fbaf | Mistral AI | Mistral Cloud - Software Engineer, Backend (Golang) | Paris
+- [ ] https://jobs.lever.co/mistral/18be2b70-c05d-48e4-82ac-e5cb462c96c0 | Mistral AI | Research Platform Engineer | Paris
+- [ ] https://jobs.lever.co/mistral/df0d75c1-97ef-4e50-85e6-0ffd8f5b7d7c | Mistral AI | Research Software Engineer | Paris
+- [ ] https://jobs.lever.co/mistral/305432ef-27ac-4012-a893-a662813ac6e9 | Mistral AI | Software Engineer, Frontend | Paris
+- [ ] https://jobs.lever.co/mistral/f2e8ba75-bf5a-4976-bb96-c5d3e0f99366 | Mistral AI | Software Engineer, Backend (New-York) | New York
+- [ ] https://jobs.lever.co/mistral/e76d2957-2bf6-4d8f-90a2-29bf9a927823 | Mistral AI | Software Engineer, Backend (Paris) | Paris
+- [ ] https://jobs.lever.co/mistral/126f59ee-2ad3-4dea-ab16-337c84fec561 | Mistral AI | Software Engineer, Backend (Warsaw) | Warsaw
+- [ ] https://jobs.lever.co/mistral/db67d7a2-bcec-4151-9b3a-8212ddabf419 | Mistral AI | Software Engineer, Data | Paris
+- [ ] https://jobs.lever.co/mistral/31364497-4081-454a-b50c-12d15daf6876 | Mistral AI | Software Engineer, Deployment Infrastructure | Paris
+- [ ] https://jobs.lever.co/mistral/c9e16eb0-0cb9-423d-8495-a96d10782622 | Mistral AI | Software Engineer, DevEx | Paris
+- [ ] https://jobs.lever.co/mistral/3eef7a1f-cd9d-430e-ac67-9d52534c346a | Mistral AI | Software Engineer, Enterprise Agents | Paris
+- [ ] https://jobs.lever.co/mistral/cf4616fc-977a-475c-bb2e-eb46a2c4a94f | Mistral AI | Software Engineer, New Grad | Paris
+- [ ] https://solid.jobs/o/82vod9p7/career-ops | PTT Consulting | Software Engineer | Warszawa
+- [ ] https://solid.jobs/o/uy02bfm5/career-ops | DCG | Conversational AI Consultant/Developer with German | Warszawa
+- [ ] https://solid.jobs/o/knia9loe/career-ops | ITFS | Fullstack Engineer (Python / TypeScript) | Gdynia
+- [ ] https://solid.jobs/o/d1s900xu/career-ops | Infolet | Fullstack Developer | Kraków
+- [ ] https://solid.jobs/o/1i10k236/career-ops | apreel | React Developer | Warszawa
+- [ ] https://solid.jobs/o/arph4h3q/career-ops | Infolet | Fullstack Software Engineer | Kraków
+- [ ] https://solid.jobs/o/d4jqkpe3/career-ops | Appliscale | Mid Fullstack Engineer | Kraków
+- [ ] https://solid.jobs/o/0a5dgffu/career-ops | DCG | Python Fullstack Developer | Warszawa
+- [ ] https://solid.jobs/o/8itt7wz5/career-ops | Power Media | Platform Engineer / Backend Engineer | Warszawa
+- [ ] https://solid.jobs/o/xcl6nq4w/career-ops | Infolet | AWS Python Developer | Kraków
+- [ ] https://solid.jobs/o/okj282bd/career-ops | ITFS | Fullstack Engineer (Python & TypeScript) | Warszawa
+- [ ] https://solid.jobs/o/d2xq15tu/career-ops | Scalo | AI Coach Tester | Warszawa
+- [ ] https://solid.jobs/o/g1cc07ab/career-ops | CYCLAD | Fullstack Data Engineer (Azure /Python /Angular) | Warszawa
+- [ ] https://solid.jobs/o/geeeivat/career-ops | Citigroup | Software Engineer with Russian | Warszawa
+- [ ] https://solid.jobs/o/c4q5fhlt/career-ops | CYCLAD | AI Engineer | Kraków
+- [ ] https://solid.jobs/o/n1m960iw/career-ops | apreel | Python/ AI Developer | Warszawa
+- [ ] https://solid.jobs/o/ah8ecnrn/career-ops | CYCLAD | Fullstack Developer - Krypton UI & Platform Mesh Integration | Warszawa
+- [ ] https://solid.jobs/o/cnn1dugz/career-ops | CYCLAD | Fullstack Developer (Python / Fastapi) | Warszawa
+- [ ] https://solid.jobs/o/o2dws9xw/career-ops | TAURON Polska Energia | AI Developer (K/M) | Katowice
+- [ ] https://solid.jobs/o/rlgv6ia9/career-ops | TAURON Polska Energia | React Developer (K/M) | Katowice
+- [ ] https://solid.jobs/o/lrc8979z/career-ops | Motorola Solutions | Linux Platform Engineer | Kraków
+- [ ] https://solid.jobs/o/xtngvtnk/career-ops | Motorola Solutions | Platform Engineer | Kraków
+- [ ] https://solid.jobs/o/qko6qjzk/career-ops | Tesco Technology | Software Engineer | Kraków
+- [ ] https://solid.jobs/o/tgjsq36d/career-ops | CYCLAD | Streaming Platform Engineer (Kafka/ Flink) | Warszawa
+- [ ] https://solid.jobs/o/n2tgoc76/career-ops | CYCLAD | Software Developer (React + Python + AI) | Wrocław
+- [ ] https://solid.jobs/o/6zwccbfs/career-ops | inFakt | Software Engineer with AI | Kraków
+- [ ] https://solid.jobs/o/61codwp1/career-ops | inFakt | Next.JS Developer | Kraków
+- [ ] https://solid.jobs/o/vk4xrojm/career-ops | inFakt | AI Engineer | Kraków
+- [ ] https://solid.jobs/o/ofogya41/career-ops | inFakt | LLM Developer | Kraków
+- [ ] https://solid.jobs/o/aetlz9pq/career-ops | inFakt | React Developer | Kraków
+- [ ] https://solid.jobs/o/dv85cz7y/career-ops | Asana | Software Engineer, Data Infrastructure | Warszawa
+- [ ] https://solid.jobs/o/b3qgw6jw/career-ops | Infolet | Python Engineer | Kraków
+- [ ] https://solid.jobs/o/xf9p1ufq/career-ops | ITFS | Backend Engineer (Python & TypeScript) | Warszawa
+- [ ] https://solid.jobs/o/x8my1cs6/career-ops | j-labs | ML Engineer / ML Ops | Kraków
+- [ ] https://solid.jobs/o/fgvm21o2/career-ops | j-labs | AI Engineer | Kraków
+- [ ] https://solid.jobs/o/ohiey92y/career-ops | Jit Team | Fullstack Developer | Gdańsk
+- [ ] https://solid.jobs/o/dmyahvsb/career-ops | Jit Team | MLOps / Gen AI Engineer | Warszawa
+- [ ] https://solid.jobs/o/28sa4wnj/career-ops | Jit Team | Testerka/Tester Sztucznej Inteligencji (AI) | Warszawa
+- [ ] https://solid.jobs/o/ci5ez14g/career-ops | Jit Team | Automation Tester (AI Coach) | Warszawa
+- [ ] https://solid.jobs/o/3c7sd4lb/career-ops | Allegro | Software Engineer (Python) | Poznań
+- [ ] https://solid.jobs/o/09z9tz57/career-ops | DCG | AI Engineer | Warszawa
+- [ ] https://jobs.lever.co/palantir/10dfc8bc-99ad-4ca2-ab76-853cb90a92c2 | Palantir | Backend Software Engineer - Application Development | London, United Kingdom
+- [ ] https://jobs.lever.co/palantir/1345438c-ebfc-4fa5-b545-30c1414f317c | Palantir | Backend Software Engineer - Defense | Washington, D.C.
+- [ ] https://jobs.lever.co/palantir/6fe5515f-f677-4d98-8ac2-1775a425f5e7 | Palantir | Backend Software Engineer - Infrastructure | New York, NY
+- [ ] https://jobs.lever.co/palantir/fb2d3222-dbd8-4e03-8d39-47b820e9509c | Palantir | Backend Software Engineer - Infrastructure, Foundations | New York, NY
+- [ ] https://jobs.lever.co/palantir/fa93a1f8-dc95-40d0-b5ca-f2aebaab0806 | Palantir | Deployment Strategist - Japan Forward Deployed | Washington, D.C.
+- [ ] https://jobs.lever.co/palantir/1a53939d-8ffa-4570-b31a-6d0bc53fdb59 | Palantir | Deployment Strategist - Korea Forward Deployed | Washington, D.C.
+- [ ] https://jobs.lever.co/palantir/636fc05c-d348-4a06-be51-597cb9e07488 | Palantir | Forward Deployed AI Engineer | New York, NY
+- [ ] https://jobs.lever.co/palantir/00c2c97b-8514-4617-9883-e53e486b6dcd | Palantir | Forward Deployed Enablement Engineer - Customer Success | London, United Kingdom
+- [ ] https://jobs.lever.co/palantir/96a0ce26-cf84-4fa8-934b-acc4363620b2 | Palantir | Forward Deployed Engineer - Mixed Reality | Washington, D.C.
+- [ ] https://jobs.lever.co/palantir/72e51928-07f0-4be0-aae5-0ae6956a4846 | Palantir | Forward Deployed Infrastructure Engineer - UK Government | London, United Kingdom
+- [ ] https://jobs.lever.co/palantir/0fccbe95-2520-4df3-8600-7897656c06a2 | Palantir | Forward Deployed Infrastructure Engineer - US Government | Honolulu, HI
+- [ ] https://jobs.lever.co/palantir/5a99fe16-1bda-4313-ace2-a11ea6e58f0c | Palantir | Forward Deployed Reliability Engineer | London, United Kingdom
+- [ ] https://jobs.lever.co/palantir/22053072-4c22-49c4-8299-28e107ceeb98 | Palantir | Forward Deployed Security Engineer - US Government | Washington, D.C.
+- [ ] https://jobs.lever.co/palantir/1bb19522-3936-4adc-9ced-c3df8b5900b9 | Palantir | Forward Deployed Software Engineer | Seoul, South Korea
+- [ ] https://jobs.lever.co/palantir/27bf5707-96fa-460e-8a5b-53bc192ca87b | Palantir | Forward Deployed Software Engineer - Edge Autonomous Systems | Washington, D.C.
+- [ ] https://jobs.lever.co/palantir/8f15d728-99cc-4003-9add-928bd72a7f30 | Palantir | Forward Deployed Software Engineer - AUS Government | Canberra, Australia
+- [ ] https://jobs.lever.co/palantir/0edf7365-49f0-4263-818a-19409ec4f430 | Palantir | Forward Deployed Software Engineer - Autonomous Systems C2 | Seattle, WA
+- [ ] https://jobs.lever.co/palantir/34b3a697-6e22-4751-befd-0b7921abbd5f | Palantir | Forward Deployed Software Engineer - Intel | Washington, D.C.
+- [ ] https://jobs.lever.co/palantir/8aba5995-653d-4805-96e8-24488e6abf37 | Palantir | Forward Deployed Software Engineer - Japan Forward Deployed | Washington, D.C.
+- [ ] https://jobs.lever.co/palantir/12e94938-55cb-4ad9-9c05-405ebc9ef430 | Palantir | Forward Deployed Software Engineer - Japan Government | Tokyo, Japan
+- [ ] https://jobs.lever.co/palantir/a39bf84c-6648-4871-bd07-9b882d401c4c | Palantir | Forward Deployed Software Engineer - Korea Forward Deployed | Washington, D.C.
+- [ ] https://jobs.lever.co/palantir/0a0d2db2-75a5-48e4-b0a0-81baa6588e36 | Palantir | Forward Deployed Software Engineer - Norwegian Government | Oslo, Norway
+- [ ] https://jobs.lever.co/palantir/53fb4c05-f949-4146-a046-5c063c36a628 | Palantir | Forward Deployed Software Engineer - Spain | Madrid, Spain
+- [ ] https://jobs.lever.co/palantir/3d0d9d92-0321-4459-a17d-fa1a76636a43 | Palantir | Forward Deployed Software Engineer - Tactical Edge | Washington, D.C.
+- [ ] https://jobs.lever.co/palantir/57a3f928-e7d3-4037-8196-b38e2f867152 | Palantir | Forward Deployed Software Engineer - UK Government | London, United Kingdom
+- [ ] https://jobs.lever.co/palantir/289ad049-7b4e-41e3-8a39-146fbeb6fb64 | Palantir | Forward Deployed Software Engineer - US Government | Washington, D.C.
+- [ ] https://jobs.lever.co/palantir/be4ab5cb-9caa-4c2a-97b9-c73805fca4fc | Palantir | Forward Deployed Software Engineer - US Government - Federal Health and Civilian | New York, NY
+- [ ] https://jobs.lever.co/palantir/13f99633-43b5-4459-8e84-25073f257c18 | Palantir | Forward Deployed Software Engineer - Warp Speed | New York, NY
+- [ ] https://jobs.lever.co/palantir/2e6b0ac8-83e9-4be5-a3aa-cf319f751728 | Palantir | Forward Deployed Software Engineer, New Grad - Commercial | New York, NY
+- [ ] https://jobs.lever.co/palantir/fbca0358-083a-4222-bdbb-3bd729b48382 | Palantir | Forward Deployed Software Engineer, New Grad - Intel, US Government | Washington, D.C.
+- [ ] https://jobs.lever.co/palantir/cbe90327-3e6e-451c-a54c-1d3cbcef5aeb | Palantir | Forward Deployed Software Engineer, New Grad - US Government | Washington, D.C.
+- [ ] https://jobs.lever.co/palantir/2da4be12-bc7a-4950-87db-e9d68d955ff7 | Palantir | Full Stack Software Engineer - Application Development | New York, NY
+- [ ] https://jobs.lever.co/palantir/8f308f3e-43d2-49c9-accd-cc7af0f1565c | Palantir | Software Engineer - Apollo Platform | New York, NY
+- [ ] https://jobs.lever.co/palantir/832e4652-5088-4e5b-aeac-1e82ec3ebad4 | Palantir | Software Engineer - Apollo Systems | New York, NY
+- [ ] https://jobs.lever.co/palantir/3b4ae28e-c4f2-4654-83b4-64366bfe72fa | Palantir | Software Engineer - Core Interfaces | New York, NY
+- [ ] https://jobs.lever.co/palantir/c288bb43-3c63-4557-bd96-600ef0d1b7a6 | Palantir | Software Engineer - Defense Applications | New York, NY
+- [ ] https://jobs.lever.co/palantir/3c84af24-b7aa-483e-b2c3-e1d83494fe15 | Palantir | Software Engineer - Developer Productivity | New York, NY
+- [ ] https://jobs.lever.co/palantir/397fb983-47b7-4a53-a7df-f080f43f7720 | Palantir | Software Engineer - Edge | Washington, D.C.
+- [ ] https://jobs.lever.co/palantir/cd2423c6-da68-430c-8be5-0ae7eea36497 | Palantir | Software Engineer - Environment Platform | Seattle, WA
+- [ ] https://jobs.lever.co/palantir/71ed917e-850a-484b-9454-fa66bdf24540 | Palantir | Software Engineer - Frontend Developer Productivity | New York, NY
+- [ ] https://jobs.lever.co/palantir/4df4cca5-e361-498b-806d-05f21638c93a | Palantir | Software Engineer - Hosted Model Infrastructure | New York, NY
+- [ ] https://jobs.lever.co/palantir/94984771-0704-446c-88c6-91ce748f6d92 | Palantir | Software Engineer, New Grad | New York, NY
+- [ ] https://jobs.lever.co/palantir/0a838e66-1ab0-4fc4-b4d3-4671c0352278 | Palantir | Software Engineer, New Grad - Defense | New York, NY
+- [ ] https://jobs.lever.co/palantir/4abf26b4-795c-420a-bf22-1ab98db268b4 | Palantir | Software Engineer, New Grad - Infrastructure | New York, NY
+- [ ] https://jobs.lever.co/palantir/15844944-fb69-4b57-9531-e988650b20c6 | Palantir | Software Engineer, New Grad - Production Infrastructure | Washington, D.C.
+
+- [ ] https://jobicy.com/jobs/145289-ai-ml-engineer-synthetic-data | Cint | AI/ML Engineer (Synthetic Data) | Czechia
+- [ ] https://himalayas.app/companies/bosch-group/jobs/ai-expert-generative-ai-solutions-developer | Bosch Group | AI Expert – Generative AI Solutions Developer | India
+- [ ] https://himalayas.app/companies/nearform/jobs/forward-deployed-engineer-perm-italy-remote-travel | NearForm | Forward Deployed Engineer (Perm, Italy, Remote + Travel) | Italy
+- [ ] https://jobspresso.co/job/software-developer-billing-integrations/ | 1Password | Software Developer, Billing Integrations | United States, Canada
+- [ ] https://weworkremotely.com/remote-jobs/vidalytics-ai-automation-engineer-in-house-martech-video-saas | Vidalytics | AI Automation Engineer, In-House MarTech Video SaaS | Anywhere in the World
+- [ ] https://weworkremotely.com/remote-jobs/vidalytics-ai-native-copywriter-vsls-funnels-paid-ads-martech-video-saas | Vidalytics | ✍️ AI-Native Copywriter (VSLs, Funnels, Paid Ads) – MarTech Video SaaS | Anywhere in the World
+- [ ] https://weworkremotely.com/remote-jobs/rimini-street-forward-deployed-engineer-agentic-ai | Rimini Street | Forward Deployed Engineer (Agentic AI) | Anywhere in the World
+- [ ] https://weworkremotely.com/remote-jobs/agilent-technologies-devops-platform-engineer-aws-ci-cd | Agilent Technologies | DevOps & Platform Engineer (AWS / CI/CD) | Anywhere in the World
+- [ ] https://weworkremotely.com/remote-jobs/kai-partners-technical-solutions-engineer-web-developer | KAI Partners | Technical Solutions Engineer/Web Developer | Anywhere in the World
+- [ ] https://weworkremotely.com/remote-jobs/remote-va-web-developer-ai-specialist | Remote VA | Web Developer & AI Specialist | Central Luzon
+- [ ] https://weworkremotely.com/remote-jobs/zensors-frontend-web-developer-react-typescript-remote | Zensors | Frontend Web Developer React/Typescript (Remote) | California
+- [ ] https://weworkremotely.com/remote-jobs/abstract-full-stack-web-developer-remote-contractor | Abstract | Full Stack Web Developer ⏤ Remote Contractor | Anywhere in the World
+- [ ] https://weworkremotely.com/remote-jobs/reveleer-full-stack-ai-engineer | Reveleer | Full Stack AI Engineer | Anywhere in the World
+- [ ] https://weworkremotely.com/remote-jobs/tether-ai-research-engineer | Tether | AI Research Engineer | Anywhere in the World
+- [ ] https://weworkremotely.com/remote-jobs/dataannotation-tech-ft-pt-remote-ai-prompt-engineering-evaluation-will-train | DataAnnotation.tech | FT/PT Remote AI Prompt Engineering & Evaluation - Will Train | USA Only
+- [ ] https://www.workingnomads.com/job/go/1656107/ | Peroptyx | AI Content Analyst (No Experience Required) | Australia
+- [ ] https://job-boards.greenhouse.io/intercom/jobs/7824137 | Intercom | AI Infrastructure Engineer | London, England
+- [ ] https://job-boards.greenhouse.io/intercom/jobs/7948297 | Intercom | Business Development Representative, Emerging AI Products | Dublin, Ireland
+- [ ] https://job-boards.greenhouse.io/intercom/jobs/7556413 | Intercom | Forward Deployed Software Engineer | London, England
+- [ ] https://job-boards.greenhouse.io/intercom/jobs/7593406 | Intercom | Solutions Engineer - LATAM (Portuguese Speaking) | Chicago, Illinois
+- [ ] https://ourhrconnect.wd501.myworkdayjobs.com/en-US/SCBlues/job/Systems-Analyst-and-Software-Engineer_R1051390 | BlueCross BlueShield of South Carolina | Systems Analyst and Software Engineer | Columbia, SC
+- [ ] https://groupeoci.teamtailor.com/jobs/8015797-developpeur-full-stack-f-h | OCI INFORMATIQUE | Full-Stack Developer | Reims
+- [ ] https://pointwest.applytojob.com/apply/Nj9uaAIJEa/AI-Developer | Pointwest Technologies Corp | AI Developer | TX
+- [ ] https://ats.rippling.com/qu-careers/jobs/3a9f54b6-5d9c-4575-a6f4-20c12598f8ec | Qu | Software Engineer (Remote) | Remote
+- [ ] https://jobs.smartrecruiters.com/confisainternationalgroup/744000133023459 | CONFISA INTERNATIONAL GROUP | AI Video Creator | Remote
+- [ ] https://apply.workable.com/ai2cyber/j/82C6DC18A2/ | AI2CYBER - Current Openings | Backend Developer | Greece
+- [ ] https://apply.workable.com/ai2cyber/j/5450FD11C2/ | AI2CYBER - Current Openings | Full Stack Developer | Greece
+- [ ] https://boardinternationalsa.applytojob.com/apply/AT34LgUJXk/GenAI-Engineer | Board International | Generative AI Engineer | Madrid, Spain
+- [ ] https://boardinternationalsa.applytojob.com/apply/FQpcsqOmcd/FPA-Solution-AI-Developer | Board International | FP&A Solution AI Developer | Chiasso, Switzerland
+- [ ] https://boardinternationalsa.applytojob.com/apply/c68pESg1yt/Associate-AI-Engineer-6month-Contract | Board International | AI Engineer | London, UK
+- [ ] https://boardinternationalsa.applytojob.com/apply/xry7R7a6sq/Associate-AI-Engineer-6month-Contract | Board International | Associate AI Engineer | Chiasso, Switzerland
+- [ ] https://jobs.ashbyhq.com/sequence/3d64276a-98ad-4b23-8807-0c013415b1a9 | Sequence | AI Engineer | New York, NY
+- [ ] https://knowmadmood.teamtailor.com/jobs/8017429-ingeniero-software-java-o-golang-kubernetes-100-remoto | knowmad mood | Software Engineer | Remote
+- [ ] https://knowmadmood.teamtailor.com/jobs/8017436-software-developer-java-python-workday-ingles-100-remoto | knowmad mood | Software Developer (Remote) | Remote
+- [ ] https://knowmadmood.teamtailor.com/jobs/8028101-frontend-react-developer-product-design-development | knowmad mood | Frontend React Developer | Remote
+- [ ] https://knowmadmood.teamtailor.com/jobs/8017386-fullstack-python-react-ia-100-remoto | knowmad mood | Fullstack Python - React (Remote) | Remote
+- [ ] https://jobs.lever.co/hhaexchange/545a47b0-c6ac-47ad-9570-5db68bcdd51d | HHAeXchange | Platform Engineer | New York City, NY, Washington DC, Baltimore, MD, Minneapolis, MN, Saint Paul, MN, Remote
+- [ ] https://jobs.lever.co/agtonomy/7c54bbb6-428c-4423-a83d-fb546717ab5d | Agtonomy | Software Engineer, Odometry & Localization | South San Francisco, CA
+- [ ] https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/AI-Engineer---Microsoft-Power-Platform_R0895940 | CVSPharmacy | AI Engineer | Remote
+- [ ] https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/Software-Development-Engineer_R0949095 | CVSPharmacy | Software Development Engineer, AI | Remote
+- [ ] https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/Backend-Capability-Product-Specialist_R0945116 | CVSPharmacy | Product Specialist, Backend Capability | Remote
+- [ ] https://jobs.smartrecruiters.com/sutherland/744000129503041 | Sutherland | Software Engineer | Hyderabad, TS
+- [ ] https://job-boards.greenhouse.io/vestmark/jobs/8009953 | Vestmark | Software Engineer | Boston, MA
+- [ ] https://jobs.ashbyhq.com/P-1%20AI/3032d125-a3f5-439f-a541-e6a38127f949 | P-1 | Forward Deployed Engineer (Remote) | Remote, San Mateo, CA
+- [ ] https://jobs.ashbyhq.com/P-1%20AI/b4f5f7d9-6c7f-463c-ba6d-cde8c245f1c8 | P-1 | AI Engineer | San Mateo, CA
+- [ ] https://michelinhr.wd3.myworkdayjobs.com/en-US/Michelin/job/Web-Fullstack-Developer---CX_R-2026022447-1 | Michelin | Web Fullstack Developer | Pune
+- [ ] https://michelinhr.wd3.myworkdayjobs.com/en-US/Michelin/job/Alternance---Ingnieur-e--dveloppement-IA--projet-BibOps---F-H-_R-2026025796 | Michelin | AI Development Engineer | Clermont-Ferrand, FR
+- [ ] https://desjardins.wd10.myworkdayjobs.com/en-US/Desjardins/job/Administrateur-ou-administratrice-de-plateforme-CI-CD-en-IA--DevSecOps-_R2607899-2 | Desjardins | AI CI/CD Platform Administrator | Montréal, QC, Lévis, QC
+- [ ] https://4dayweek.io/job/full-stack-software-engineer-at-ecare-5f132854 | Ecare | Full Stack Software Engineer | Enschede, Netherlands
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4651990005 | Glean | Founding Forward Deployed Engineer | Mountain View, CA
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4581643005 | Glean | Software Engineer, Backend | Mountain View, CA
+- [ ] https://jobs.ashbyhq.com/cohere/b0bcef37-1d20-414f-aade-c54942d63df9 | Cohere | Forward Deployed Engineer, Agentic Platform | United States · Canada · New York · Ottawa · Toronto · Montreal
+- [ ] https://jobs.ashbyhq.com/sierra/61bb1eca-b416-4e6d-a0ac-5f418b35a8f3 | Sierra | Forward Deployed Infrastructure Engineer | London
+- [ ] https://jobs.ashbyhq.com/sierra/631848ec-1a74-4067-8b9f-cd04a71aab6d | Sierra | Software Engineer, Agent | Toronto
+- [ ] https://jobs.ashbyhq.com/sierra/d9c0aa93-e35d-4752-9cef-4c39dcad5365 | Sierra | Forward Deployed Infrastructure Engineer | San Francisco, CA · New York, NY · New York · United States
+- [ ] https://landing.jobs/at/damia-group-portugal/backend-developer-in-lisbon-2025 | Damia Group Portugal | Backend Developer | Lisbon, PT
+- [ ] https://landing.jobs/at/damia-group-portugal/platform-engineer-in-2026 | Damia Group Portugal | Platform Engineer | PT, Remote
+- [ ] https://landing.jobs/at/damia-group-portugal/data-platform-engineer-in | Damia Group Portugal | Data Platform Engineer | PT, Remote
+- [ ] https://landing.jobs/at/bounce/full-stack-data-scientist | Bounce | Full Stack Data Scientist | Lisbon, PT
+- [ ] https://landing.jobs/at/dashlane-pt/software-engineer-backend-in-lisbon-2026 | Dashlane Pt | Software Engineer - Backend | Lisbon, PT
+- [ ] https://landing.jobs/at/inscale/ai-developer | Inscale | AI Developer | Lisbon, PT
+- [ ] https://landing.jobs/at/bounce/product-engineer-core | Bounce | Product Engineer, Core | Lisbon, PT
+- [ ] https://jobs.ashbyhq.com/attio/4649d1da-9672-4e04-bb7a-a71fb816615c | Attio | Solutions Engineer \[Pre and Post-Sales\] - SMB | San Francisco
+- [ ] https://jobs.ashbyhq.com/attio/8fb5c68d-84e3-45ac-b4dd-471addaa3eca | Attio | Product Engineer | Poland · Portugal · Ireland · Germany
+- [ ] https://jobs.ashbyhq.com/attio/cef00929-63ab-4927-8a3c-1ea1d4224606 | Attio | Forward Deployed Engineer | New York
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7781716003?gh_jid=7781716003 | Celonis | Associate Value Engineer (AI-Driven Data Science & Analytics) - Orbit Program | Raleigh, US, North Carolina
+- [ ] https://job-boards.greenhouse.io/contentful/jobs/7557586 | Contentful | Fullstack Software Engineer (f/m/d) | Dublin, Dublin, Ireland
+- [ ] https://n26.com/en-eu/careers/positions/8035334?gh_jid=8035334 | N26 | Backend Engineer – Core Systems | Berlin
+- [ ] https://n26.com/en-eu/careers/positions/7996816?gh_jid=7996816 | N26 | Backend Engineer - Customer Identity | Berlin
+- [ ] https://n26.com/en-eu/careers/positions/8043058?gh_jid=8043058 | N26 | Junior Backend Engineer - Data Ingestion | Barcelona
+- [ ] https://jobs.lever.co/palantir/ab7e3425-81d5-4705-a7b5-cd60c8a45cdb | Palantir | Backend Software Engineer - Application Development | New York, NY
+- [ ] https://jobs.lever.co/palantir/a8174f9c-6f46-46b4-8e15-d1ff9e37c9eb | Palantir | Backend Software Engineer - Defense | Palo Alto, CA
+- [ ] https://jobs.lever.co/palantir/f70cdff7-c62f-4b73-a136-909e5e3d1891 | Palantir | Backend Software Engineer - Infrastructure | London, United Kingdom
+- [ ] https://jobs.lever.co/palantir/ff1029bd-bb6d-4d78-a03e-5f9744d0b798 | Palantir | Forward Deployed AI Engineer | London, United Kingdom
+- [ ] https://jobs.lever.co/palantir/4cba9c95-d16f-440d-83e7-2352480f689f | Palantir | Forward Deployed Enablement Engineer - Customer Success | New York, NY
+- [ ] https://jobs.lever.co/palantir/74748e0e-a0bc-4c53-a636-ef14e36d9b5e | Palantir | Forward Deployed Infrastructure Engineer - US Government | Washington, D.C.
+- [ ] https://jobs.lever.co/palantir/689e6869-01bc-40f1-b580-adb33a020065 | Palantir | Forward Deployed Reliability Engineer | New York, NY
+- [ ] https://jobs.lever.co/palantir/492a16bb-6b9f-457e-82c3-294e1a2c565d | Palantir | Forward Deployed Software Engineer | Amsterdam, Netherlands
+- [ ] https://jobs.lever.co/palantir/909875b4-1940-41bd-b08d-a269c7235100 | Palantir | Forward Deployed Software Engineer - AUS Government | Sydney, Australia
+- [ ] https://jobs.lever.co/palantir/c62264f5-5da8-40fe-9b44-f7f0f0012e11 | Palantir | Forward Deployed Software Engineer - Autonomous Systems C2 | Palo Alto, CA
+- [ ] https://jobs.lever.co/palantir/84131e3f-455e-47fc-9c11-898d95f09048 | Palantir | Forward Deployed Software Engineer - US Government | San Diego, CA
+- [ ] https://jobs.lever.co/palantir/e7100322-be11-40c8-9dba-7a21b7302c08 | Palantir | Forward Deployed Software Engineer - US Government - Federal Health and Civilian | Washington, D.C.
+- [ ] https://jobs.lever.co/palantir/e500bcf3-19d8-4d3c-b340-4d76e4a55b40 | Palantir | Forward Deployed Software Engineer, New Grad - Commercial | Chicago, IL
+- [ ] https://jobs.lever.co/palantir/d1ac83d0-e923-42a5-8e6d-58dd0cab25ca | Palantir | Forward Deployed Software Engineer, New Grad - US Government | New York, NY
+- [ ] https://jobs.lever.co/palantir/c44510a1-9537-4c52-ae81-51546979fe47 | Palantir | Full Stack Software Engineer - Application Development | London, United Kingdom
+- [ ] https://jobs.lever.co/palantir/afea07a8-2721-45e6-a9ca-6580f3f9783c | Palantir | Software Engineer - Apollo Platform | Seattle, WA
+- [ ] https://jobs.lever.co/palantir/e47d4410-2542-47d8-b558-b5295fc28821 | Palantir | Software Engineer - Apollo Systems | Seattle, WA
+- [ ] https://jobs.lever.co/palantir/cf76738e-3030-42fa-92ac-a9446df956fc | Palantir | Software Engineer - Core Interfaces | Palo Alto, CA
+- [ ] https://jobs.lever.co/palantir/f7dbfdf1-0bb1-4c11-ac15-6a139cee3410 | Palantir | Software Engineer - Defense Applications | Washington, D.C.
+- [ ] https://jobs.lever.co/palantir/d5d83a8f-cb96-41cc-9612-c7224fbb2fbc | Palantir | Software Engineer - Environment Platform | New York, NY
+- [ ] https://jobs.lever.co/palantir/7a9600be-cdcb-4311-bb5c-65b6939b5956 | Palantir | Software Engineer - Hosted Model Infrastructure | Washington, D.C.
+- [ ] https://jobs.lever.co/palantir/c34b424e-caf2-455a-b104-ae1096ccca29 | Palantir | Software Engineer, New Grad | Denver, CO
+- [ ] https://jobs.lever.co/palantir/18d901fc-93bb-4d18-9f04-c72031e20d79 | Palantir | Software Engineer, New Grad - Defense | Washington, D.C.
+- [ ] https://jobs.lever.co/palantir/7d75bed5-45d8-4876-840a-2d92ea79c98d | Palantir | Software Engineer, New Grad - Infrastructure | Palo Alto, CA
+- [ ] https://jobs.lever.co/palantir/4d5a144e-87ea-45e2-a68c-3fad590629af | Palantir | Software Engineer, New Grad - Production Infrastructure | Seattle, WA
+- [ ] https://www.arbeitnow.com/jobs/companies/advertical/werkstudent-business-automation-ai-cologne-311541 | Advertical | Werkstudent Business Automation & AI (m/w/d) | Cologne
+- [ ] https://www.arbeitnow.com/jobs/companies/noxon/front-end-software-engineer-flutter-full-time-munich-germany-407323 | NOXON | Front-End Software Engineer Flutter (Full Time), Munich, Germany | Munich
+- [ ] https://www.arbeitnow.com/jobs/companies/orbit/product-engineer-hamburg-68371 | Orbit | Product Engineer (m/w/d) | Hamburg, Remote
+- [ ] https://www.arbeitnow.com/jobs/companies/sayano-deutschland-gmbh/ai-full-stack-software-engineer-im-e-commerce-startup-e-commerce-data-stuttgart-111639 | Sayano Deutschland GmbH | AI Full Stack Software Engineer im E-Commerce Startup (E-Commerce & Data) | Stuttgart
+- [ ] https://www.arbeitnow.com/jobs/companies/envidual/fullstack-developer-munich-199669 | Envidual | Fullstack Developer | Munich
+- [ ] https://www.arbeitnow.com/jobs/companies/finanzchef24-gmbh/junior-backend-focused-developer-munich-303565 | Finanzchef24 GmbH | Junior Backend-focused Developer (m/f/d) | Munich
+- [ ] https://www.arbeitnow.com/jobs/companies/prokuras-beteiligungs-gmbh/junior-business-analyst-ki-ai-champion-hamburg-411937 | Prokuras Beteiligungs GmbH | (Junior) Business Analyst – KI/AI Champion (m/w/d) | Hamburg
+- [ ] https://www.arbeitnow.com/jobs/companies/retorio-gmbh/working-student-ai-product-engineering-data-munich-252542 | Retorio GmbH | Working Student: AI Product Engineering - Data (m/f/d) | Munich
+- [ ] https://www.arbeitnow.com/jobs/companies/beatvest/founders-associate-ai-first-transformation-werkstudentin-munich-451695 | beatvest | Founders Associate: AI-First Transformation Werkstudent:in | Munich, Remote
+- [ ] https://www.arbeitnow.com/jobs/companies/sti-gmbh/werkstudent-ai-automatisierung-berlin-260065 | STI GmbH | Werkstudent (m/w/d) AI & Automatisierung | Berlin, Remote
+- [ ] https://www.arbeitnow.com/jobs/companies/seomatik-gmbh/praktikum-online-marketing-marketing-ki-ai-herford-199992 | SEOMATIK GmbH | Praktikum Online-Marketing / Marketing / KI / AI | Herford
+- [ ] https://www.arbeitnow.com/jobs/companies/qentin/technischer-werkstudent-mit-perspektive-auf-founding-engineer-co-founder-munchen-241891 | Qentin | Technischer Werkstudent mit Perspektive auf Founding Engineer / Co-Founder | München
+- [ ] https://www.arbeitnow.com/jobs/companies/persohap-gmbh/backend-developer-python-berlin-104687 | Persohap GmbH | Backend Developer (Python) | Berlin, Remote
+- [ ] https://www.arbeitnow.com/jobs/companies/persohap-gmbh/frontend-developer-react-berlin-405524 | Persohap GmbH | Frontend Developer (React) | Berlin
+- [ ] https://www.arbeitnow.com/jobs/companies/myprotectify/product-engineerin-fullstack-developerin-berlin-331891 | myProtectify | Product Engineer*in / Fullstack Developer*in | Berlin, Remote
+- [ ] https://www.arbeitnow.com/jobs/companies/tecfox-gmbh/fullstack-softwareentwickler-braunschweig-189724 | TecFox GmbH | Fullstack Softwareentwickler (m/w/d) | Braunschweig, Remote
+- [ ] https://www.arbeitnow.com/jobs/companies/dtad-gmbh/fullstack-developer-remote-berlin-381511 | DTAD GmbH | Fullstack Developer (m/w/d) remote | Berlin
+- [ ] https://job-boards.eu.greenhouse.io/physicsx/jobs/4860241101 | PhysicsX | Forward Deployed Software Engineer | Singapore
+- [ ] https://jobs.lever.co/pigment/1a9ccf1f-c28d-4ed4-ab40-d093eb8fee63 | Pigment | AI Deployment Strategist | San Francisco
+- [ ] https://jobs.ashbyhq.com/legora/94ba8580-636d-4fe7-becd-fbfe44bb367d | Legora | Software Engineer | London
+- [ ] https://jobs.ashbyhq.com/legora/f3c0712a-f8e2-4dc1-8e83-23da7891a1c2 | Legora | Solutions Engineer | New York City
+- [ ] https://jobs.ashbyhq.com/resend/9b68ba51-3895-4d29-8fd1-364bdf8956e7 | Resend | Product Engineer | Americas / Remote / Full-time
+- [ ] https://jobs.ashbyhq.com/resend/d5bc5890-847d-4bc5-bbd7-d0d72021ff3c | Resend | Backend Engineer (Infra), Core Sending | Europe / Remote / Full-time
+- [ ] https://job-boards.greenhouse.io/hightouch/jobs/6104620004 | Hightouch | Solutions Engineer, Mid-Market (Pre-Sales) | Europe
+- [ ] https://thehub.io/jobs/6a2ab4ce37958933f39ce11b | KIME | Junior AI Engineer | Copenhagen, Denmark
+- [ ] https://thehub.io/jobs/6a3d22c84df5a41e46497143 | VF Software | Full-stack Developer | Aarhus, Denmark
+- [ ] https://thehub.io/jobs/6a1e2664d0a5dda3259b8075 | Light | AI Engineer | London, UK, Remote
+- [ ] https://thehub.io/jobs/6a3670254df5a41e46a3cb55 | Mercive | Full-stack Developer | Copenhagen, Denmark
+- [ ] https://thehub.io/jobs/6a0da67da336f5cbefad61f8 | Sumary | Full-Stack Software Engineer | Copenhagen, Denmark
+- [ ] https://thehub.io/jobs/6a018aa345c8d4f7d90c6f0a | Againta (Trio Line Holding) | AI Builder (Agentic Systems Engineer) | Copenhagen, Denmark
+- [ ] https://thehub.io/jobs/6a3a626c6033b21e8097f777 | IT Minds | Software Developer | Aarhus, Denmark
+- [ ] https://thehub.io/jobs/6a103e19ec32a0c965255d2c | nofipa | Fullstack-udvikler - Node.js/TypeScript + React | Copenhagen, Denmark
+- [ ] https://thehub.io/jobs/6a43acc7a811eaf13b91b2fb | The Hub | AI-Native Startup Recruiter | Copenhagen, Denmark
+- [ ] https://thehub.io/jobs/6a10eef6000a9d9b32f1fba7 | Carla | Backend engineer | Stockholm, Sweden, Remote
+- [ ] https://thehub.io/jobs/6a39d087e9103536482dceff | Too Good To Go | Software Engineer 1 (Backend) | Copenhagen, Denmark
+- [ ] https://thehub.io/jobs/6a2ab29a37958933f39cc77c | KIME | Junior AI Engineer (Student Position) | Copenhagen, Denmark
+- [ ] https://thehub.io/jobs/6a1f77e4ba0716b1bb51c50f | Tandem Health | AI Engineer | Stockholm, Sweden
+- [ ] https://solid.jobs/o/6cilrhwq/career-ops | speedapp | Python/Gis Developer | Warszawa
+- [ ] https://solid.jobs/o/n9nro948/career-ops | Dev4Hire | Golang Developer | Warszawa
+- [ ] https://solid.jobs/o/7po7obq9/career-ops | Tesco Technology | Software Engineer | Kraków
+- [ ] https://solid.jobs/o/jrbh4wbm/career-ops | apreel | Python/ AI Developer | Warszawa
+- [ ] https://www.themuse.com/jobs/l3harristechnologies/hiring-event-software-engineers-4fd40e | L3Harris Technologies | Hiring Event - Software Engineers | Redlands, CA
+- [ ] https://www.themuse.com/jobs/spacex/software-engineer-design-software-starship-a80717 | SpaceX | Software Engineer, Design Software (Starship) | Brownsville, TX
+- [ ] https://www.themuse.com/jobs/spacex/software-engineer-hardware-test-automation-starlink-900846 | SpaceX | Software Engineer, Hardware Test & Automation (Starlink) | Redmond, WA
+- [ ] https://www.themuse.com/jobs/bankofamerica/software-engineer-iii-gbs-ind-f18a3d | Bank of America | Software Engineer III - GBS IND | Hyderabad, India
+- [ ] https://www.themuse.com/jobs/spacex/forward-deployed-engineer-mission-systems-starshield | SpaceX | Forward Deployed Engineer, Mission Systems (Starshield) | El Segundo, CA
+- [ ] https://www.themuse.com/jobs/exadel/ai-product-automation-consultant | Exadel | AI Product & Automation Consultant | Făgăraș, Romania
+- [ ] https://www.themuse.com/jobs/spacex/full-stack-software-engineer-data-starlink | SpaceX | Full Stack Software Engineer, Data (Starlink) | El Segundo, CA
+- [ ] https://www.themuse.com/jobs/disney/associate-security-software-engineer-devops-9e23fa | Disney | Associate Security Software Engineer (Devops) | Orlando, FL
+- [ ] https://www.themuse.com/jobs/spacex/software-engineer-high-performance-computing-starlink-b6840b | SpaceX | Software Engineer, High Performance Computing (Starlink) | Palo Alto, CA
+- [ ] https://www.themuse.com/jobs/spacex/osplatform-software-engineer-starlink-b9eb48 | SpaceX | OS/Platform Software Engineer (Starlink) | Redmond, WA
+- [ ] https://www.themuse.com/jobs/celonis/associate-ai-solution-consultant-scale-emeagermanspeaking-orbit-program | Celonis | Associate (AI) Solution Consultant (Scale EMEA/German-Speaking) - Orbit Program | Madrid, Spain
+- [ ] https://www.themuse.com/jobs/bankofamerica/software-engineer-iii-gbs | Bank of America | Software Engineer III - GBS | Gurgaon, India
+- [ ] https://www.themuse.com/jobs/spacex/factory-software-engineer-starlink | SpaceX | Factory Software Engineer (Starlink) | Lockhart, TX
+- [ ] https://www.themuse.com/jobs/spacex/full-stack-software-engineer-constellation-tools-starlink-ae6ec1 | SpaceX | Full Stack Software Engineer, Constellation Tools (Starlink) | Redmond, WA
+- [ ] https://www.themuse.com/jobs/crowncorksealusa/back-end-maintainer-production-mechanic-df67e2 | Crown Cork & Seal USA | Back End Maintainer (Production Mechanic) | Woodbridge, Canada
+- [ ] https://www.themuse.com/jobs/spacex/software-engineer-network-observability-starlink | SpaceX | Software Engineer, Network Observability (Starlink) | El Segundo, CA
+- [ ] https://www.themuse.com/jobs/spacex/software-engineer-simulations-starlink | SpaceX | Software Engineer, Simulations (Starlink) | Redmond, WA
+- [ ] https://www.themuse.com/jobs/uber/software-engineer-ii-c363ab | Uber | Software Engineer II | Sunnyvale, CA
+- [ ] https://www.themuse.com/jobs/ulineinc/platform-engineer-4f441e | Uline, Inc. | Platform Engineer | Pleasant Prairie, WI
+- [ ] https://www.themuse.com/jobs/spacex/software-engineer-satellite-operations-starshield | SpaceX | Software Engineer, Satellite Operations (Starshield) | El Segundo, CA
+- [ ] https://www.themuse.com/jobs/spacex/simulation-software-engineer-application-software | SpaceX | Simulation Software Engineer (Application Software) | El Segundo, CA
+- [ ] https://www.themuse.com/jobs/bankofamerica/software-engineer-iii-ui-development-team | Bank of America | Software Engineer III - UI Development Team | Orpington, United Kingdom
+- [ ] https://www.themuse.com/jobs/spacex/backend-software-engineer-gnc-starlink | SpaceX | Backend Software Engineer, GNC (Starlink) | Redmond, WA
+- [ ] https://www.themuse.com/jobs/spacex/application-software-engineer-1dca5a | SpaceX | Application Software Engineer | Palo Alto, CA
+- [ ] https://www.themuse.com/jobs/spacex/software-engineer-vehicle-operations-starshield | SpaceX | Software Engineer, Vehicle Operations (Starshield) | El Segundo, CA
+- [ ] https://www.themuse.com/jobs/spacex/rf-software-engineer-starshield-8b78a6 | SpaceX | RF Software Engineer (Starshield) | El Segundo, CA
+- [ ] https://www.themuse.com/jobs/disney/software-engineer-ii-crust-24afd7 | Disney | Software Engineer II - C++/Rust | Burbank, CA
+- [ ] https://www.themuse.com/jobs/spacex/ai-software-engineer-vehicle-engineering-1104aa | SpaceX | AI Software Engineer (Vehicle Engineering) | El Segundo, CA
+- [ ] https://www.themuse.com/jobs/uber/software-engineer-313d32 | Uber | Software Engineer | Sunnyvale, CA
+
+- [ ] https://www.arbeitnow.com/jobs/companies/seomatik-gmbh/praktikum-online-marketing-marketing-ki-ai-bielefeld-249091 | SEOMATIK GmbH | Praktikum Online-Marketing / Marketing / KI / AI | Bielefeld
+- [ ] https://job-boards.greenhouse.io/gitlab/jobs/8565469002 | GitLab | AI Engineer | Remote, US
+- [ ] https://job-boards.greenhouse.io/gitlab/jobs/8548105002 | GitLab | AI Transformation Owner, Marketing | Remote, Canada; Remote, Ireland; Remote, United Kingdom; Remote, US
+- [ ] https://job-boards.greenhouse.io/gitlab/jobs/8522408002 | GitLab | Forward Deployed Engineer - Germany | Remote, Austria; Remote, Germany; Remote, Switzerland
+- [ ] https://job-boards.greenhouse.io/gitlab/jobs/8524783002 | GitLab | Forward Deployed Engineer - META | Remote, United Arab Emirates
+- [ ] https://job-boards.greenhouse.io/gitlab/jobs/8522265002 | GitLab | Forward Deployed Engineer - UK | Remote, United Kingdom
+- [ ] https://job-boards.greenhouse.io/gitlab/jobs/8497793002 | GitLab | Intermediate Backend Engineer (C), Tenant Scale: Git | Remote, India
+- [ ] https://job-boards.greenhouse.io/mattermost/jobs/5156188008 | Mattermost | Forward Deployed Engineer | United States
+- [ ] http://www.circleci.com/careers/jobs/8510404002/?gh_jid=8510404002 | CircleCI | Software Engineer | Remote, UK
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5191433008 | Anthropic | Software Engineer, Safeguards Foundations (Internal Tooling) | London, UK
+- [ ] https://job-boards.greenhouse.io/intercom/jobs/7820671 | Intercom | AI Infrastructure Engineer | Dublin, Ireland
+- [ ] https://jobs.ashbyhq.com/elevenlabs/a3097257-a07a-4a7e-b9fe-b8555c1a0fa7 | ElevenLabs | Engineering - Internal AI Transformation | United States · Dublin · Ireland · Sofia · Bulgaria · Germany · Portugal · Warsaw · Poland · Sweden · Stockholm · Italy · United Kingdom · Amsterdam · Netherlands · Canada · Berlin
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4651991005 | Glean | Founding Forward Deployed Engineer | Remote - US
+- [ ] https://jobs.ashbyhq.com/sierra/787c1efd-2327-46e7-9335-59a20ad4be18 | Sierra | Software Engineer, Agent | Sydney
+- [ ] https://jobs.ashbyhq.com/cohere/8c035d3d-081d-4c8a-914a-72f4efaad254 | Cohere | Software Engineer Intern (Fall / Winter 2026) | Canada · United States · San Francisco
+- [ ] https://jobs.ashbyhq.com/attio/ce226be1-8237-41ce-b5ca-97c18d3ca8e6 | Attio | Solutions Engineer \[Pre and Post-Sales\] - SMB | New York
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7751549003?gh_jid=7751549003 | Celonis | AI & Management Consulting Intern (Value Engineering - DACH Market) | Munich, Germany
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7767090003?gh_jid=7767090003 | Celonis | Intern AI & Management Consulting (Value Engineering) | Paris, France
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7731854003?gh_jid=7731854003 | Celonis | Intern Demo Experience & Applied AI | Madrid, Spain
+- [ ] https://job-boards.greenhouse.io/contentful/jobs/7553930 | Contentful | Fullstack Software Engineer (f/m/d) | London, England, United Kingdom
+- [ ] https://sumup.com/careers/positions/8285272002?gh_jid=8285272002 | SumUp | AI Product Intern | Berlin, Germany
+- [ ] https://jobs.lever.co/palantir/d33e0c31-ac7e-4f57-ba74-36f2df6ae2f5 | Palantir | Backend Software Engineer - Defense | New York, NY
+- [ ] https://jobs.lever.co/palantir/a90eb029-19cc-413c-bd51-b8411053d7d4 | Palantir | Forward Deployed Enablement Engineer - Customer Success | Washington, D.C.
+- [ ] https://jobs.lever.co/palantir/b57f08e9-546c-4b9b-8d21-db0ebbc11363 | Palantir | Forward Deployed Infrastructure Engineer - US Government | New York, NY
+- [ ] https://jobs.lever.co/palantir/5168e8fd-fec1-4fea-b7a1-81bdaea65850 | Palantir | Forward Deployed Software Engineer | London, United Kingdom
+- [ ] https://jobs.lever.co/palantir/ce8ca664-60dc-4f9a-8986-3c96673bcfdf | Palantir | Forward Deployed Software Engineer - US Government | Honolulu, HI
+- [ ] https://jobs.lever.co/palantir/1b6f1d82-d459-4dea-8bc2-8d2ffe6f881a | Palantir | Forward Deployed Software Engineer, Internship | Paris, France
+- [ ] https://jobs.lever.co/palantir/395a4483-fc3d-4b77-a500-501923fd0976 | Palantir | Forward Deployed Software Engineer, Internship - AUS Government | Sydney, Australia
+- [ ] https://jobs.lever.co/palantir/4d29249a-d7e8-4c39-880d-3b35d7b2f6f6 | Palantir | Forward Deployed Software Engineer, Internship - Commercial | New York, NY
+- [ ] https://jobs.lever.co/palantir/cccfe1bd-f15b-4fe5-b044-c793e7961c1b | Palantir | Forward Deployed Software Engineer, Internship - Defense Tech | Washington, D.C.
+- [ ] https://jobs.lever.co/palantir/ac0dc094-2480-43c2-8495-26ade227ff4f | Palantir | Forward Deployed Software Engineer, Internship - France | New York, NY
+- [ ] https://jobs.lever.co/palantir/9e40d77f-b07c-437b-98e7-def9b0184d89 | Palantir | Forward Deployed Software Engineer, Internship - Intel | Washington, D.C.
+- [ ] https://jobs.lever.co/palantir/d582cd84-14fd-4aa3-b413-15982d286bd9 | Palantir | Forward Deployed Software Engineer, Internship - Poland | New York, NY
+- [ ] https://jobs.lever.co/palantir/315f695d-04d1-4a9a-848e-cb2bec7a997e | Palantir | Forward Deployed Software Engineer, Internship - US Government | Honolulu, HI
+- [ ] https://jobs.lever.co/palantir/09846827-b931-4a9f-bd64-c3bb8860187b | Palantir | Privacy and Civil Liberties Software Engineer, Internship | New York, NY
+- [ ] https://jobs.lever.co/palantir/f75cb0d2-6608-450b-848e-0f27937c930d | Palantir | Software Engineer - Apollo Platform | London, United Kingdom
+- [ ] https://jobs.lever.co/palantir/e9aecd15-c7e9-4803-9928-fc0b67e70f5b | Palantir | Software Engineer - Hosted Model Infrastructure | Palo Alto, CA
+- [ ] https://jobs.lever.co/palantir/373eb939-6f57-4836-8479-be79a5e07249 | Palantir | Software Engineer, Internship | Denver, CO
+- [ ] https://jobs.lever.co/palantir/8bcf4f33-0a79-4248-bbfd-49ac4be9dd8e | Palantir | Software Engineer, Internship - Defense Tech | New York, NY
+- [ ] https://jobs.lever.co/palantir/b229baac-494b-4a0d-9a13-2e38806e06f3 | Palantir | Software Engineer, Internship - Infrastructure | New York, NY
+- [ ] https://jobs.lever.co/palantir/373367a9-3160-49d8-b7af-2efec062fad1 | Palantir | Software Engineer, Internship - Production Infrastructure | Seattle, WA
+- [ ] https://jobs.lever.co/palantir/f362d7aa-360d-4059-ab38-f482742693b3 | Palantir | Software Engineer, New Grad - Defense | Palo Alto, CA
+- [ ] https://jobs.lever.co/palantir/e1a6c138-98bf-45e2-97f7-2c70371cc38a | Palantir | Software Engineer, New Grad - Production Infrastructure | New York, NY
+- [ ] https://jobs.lever.co/palantir/75cc1c09-8ebd-44c8-b3bc-d122cd1fecb3 | Palantir | Year at Palantir - Forward Deployed Software Engineer, Internship - Commercial | Chicago, IL
+- [ ] https://jobs.lever.co/palantir/5c4c65c5-77da-4d36-856c-4ade87631019 | Palantir | Year at Palantir - Forward Deployed Software Engineer, Internship - USG | Washington, D.C.
+- [ ] https://jobs.lever.co/palantir/655f9937-a4ce-4e7d-80e2-a6659af07329 | Palantir | Year at Palantir - Software Engineer, Internship | New York, NY
+- [ ] https://jobs.lever.co/pigment/27d0415e-b9fe-446f-bf45-aa95c660b0a8 | Pigment | AI Deployment Strategist | New York
+- [ ] https://jobs.ashbyhq.com/perplexity/79a07e2d-6150-4929-80fe-bbe13a641763 | Perplexity | AI Inference Internship | London
+- [ ] https://jobs.ashbyhq.com/perplexity/be94e89b-89d5-4f2a-a58b-7929c8d97f92 | Perplexity | Internship - Search Backend Infra Engineer | Belgrade
+- [ ] https://job-boards.greenhouse.io/planetscale/jobs/4257174009 | PlanetScale | Software Engineer - Postgres Internals | San Francisco Bay Area or Remote
+- [ ] https://jobs.ashbyhq.com/legora/ceda582e-2513-46da-b038-946258c035e1 | Legora | Software Engineer - Internal Tooling | Stockholm HQ
+- [ ] https://jobs.ashbyhq.com/legora/f1ed20ac-add0-47f0-a6c5-2d6cf5149117 | Legora | Software Engineer | Malmö
+- [ ] https://www.themuse.com/jobs/bankofamerica/software-engineer-iii-gbs-ind-99db24 | Bank of America | Software Engineer III - GBS IND | Chennai, India
+
+- [ ] https://bdjobs.com/h/details/1496513?ln=1 | Indetechs Software Limited | Junior Software Engineer | Bangladesh | note: Deep search (BDJobs, Bangladesh) — Junior, full-stack mentoring role. Verified live 2026-07-08 (deadline 11 Jul 2026).
+- [ ] https://bdjobs.com/h/details/1496520?ln=1 | Indetechs Software Limited | Full Stack Software Engineer (Backend Heavy) | Bangladesh | note: Deep search (BDJobs, Bangladesh) — same company as the Junior req above but a distinct backend-heavy role, not a duplicate. Verified live 2026-07-08 (deadline 11 Jul 2026), but requires 3-6 years experience — exceeds target mid-level band, flag for oferta review.
+- [ ] https://hh.ru/vacancy/134978316 | СОФИ И ПАРТНЕРЫ | Junior Backend Разработчик | Moscow, remote | note: hh.ru search (area=Russia, experience=no-exp/1-3yr) — Node.js(Express/Nest) or Python(FastAPI/Django), PostgreSQL, from 100k RUB. Verified live 2026-07-08.
+- [ ] https://hh.ru/vacancy/134273174 | Prooftech IT | Backend Python Developer for the AI Agents Team | Moscow, remote | note: hh.ru search — Python/FastAPI backend for an AI-agents/RAG team, 1-3yr, 4.8 employer rating. Strong AI/LLM archetype match. Verified live 2026-07-08.
+- [ ] https://hh.ru/vacancy/134621536 | Аналитические программные решения | Junior Backend разработчик Python | Moscow, hybrid after probation | note: hh.ru search — Python backend building microservices + LLM agents, no experience required. Verified live 2026-07-08.
+- [ ] https://hh.ru/vacancy/134252825 | М.Видео-Эльдорадо. ИТ | IT Intern (Backend Developer/Go) | Moscow, remote/hybrid | note: hh.ru search — Go internship (Aug 2026-Jan 2027), PostgreSQL/Kafka. Go is an explicit CV skill. Verified live 2026-07-08.
+- [ ] https://hh.ru/vacancy/134350358 | М.Видео-Эльдорадо. ИТ | Младший backend-разработчик Python (Стажер) | Russia-wide, remote | note: hh.ru search — Python internship (Aug 2026-Jan 2027), same company as the Go internship above but a distinct req. Verified live 2026-07-08.
+- [ ] https://hh.ru/vacancy/134265607 | ССПБ | Python-разработчик | Moscow, on-site | note: hh.ru search — no-experience-required Python role; explicitly on-site only, but candidate already resides in Moscow. Verified live 2026-07-08.
+- [ ] https://hh.ru/vacancy/134679158 | Changellenge | Стажер/Backend-разработчик | Moscow, remote | note: hh.ru search — generic backend internship, flexible stack (Python/Kotlin/Scala/PHP as pluses, not required). Verified live 2026-07-08.
+- [ ] https://hh.ru/vacancy/134775665 | Цифровой Диалог | Backend-программист Node.JS | Rostov-on-Don, remote/hybrid/on-site option | note: hh.ru search — Node.js, 1-3yr, part-time, up to 60k RUB. Verified live 2026-07-08.
+- [ ] https://hh.ru/vacancy/134749420 | Айтими (iTeamy) | Web-программист стажёр (Backend) | Yekaterinburg, hybrid | note: hh.ru search — intern, node.js/React among the learning stack (PHP also mentioned, not required). Part-time. Verified live 2026-07-08.
+- [ ] https://www.rabota.ru/vacancy/50499806/ | ДЖЕТКЕЙС | Python-разработчик | Moscow, on-site | note: Google search → rabota.ru — Python/Flask/FastAPI/Docker, 1+ year experience, accredited IT company. Verified live 2026-07-08.
+- [ ] https://www.tbank.ru/career/it/vacancy/moscow/python-razrabotchik-v-komandu-marshrutizacii/c9c603a8-12f1-4e63-88aa-57413062b039/ | T-Bank | Python Developer, Routing Team | Any city, remote | note: T-Bank IT vacancies, Middle-only tag — Python, Kafka, Docker/K8s. Verified live 2026-07-08.
+- [ ] https://www.tbank.ru/career/it/vacancy/undefined/python-razrabotchik-v-komandu-llm-platformy/865ad4f0-7e55-4237-ab30-5f8513557708/ | T-Bank | Python Developer, LLM Platform Team | Any city, remote | note: T-Bank IT vacancies — builds the LLM/RAG platform used by 40+ internal teams; FastAPI/PostgreSQL/Docker/K8s/pytest. Strong AI/LLM archetype match. Verified live 2026-07-08.
+- [ ] https://www.tbank.ru/career/it/vacancy/undefined/python-razrabotchik-v-komandu-zapuska-vnutrennih-ai-servisov/88bb5a3d-de64-4298-85d8-0fd13d4427da/ | T-Bank | Python Developer, Internal AI Services Team | Any city, remote | note: T-Bank IT vacancies — AI Center (600+ specialists), builds internal AI services; same stack as the LLM Platform role above but a distinct team/req. Verified live 2026-07-08.
+- [ ] https://www.tbank.ru/career/it/vacancy/moscow/go-developer-routing/bcaa3db1-a971-478d-8198-d8f34d20b628/ | T-Bank | Golang Developer, Routing Team | Any city, remote | note: T-Bank IT vacancies — Go is an explicit CV skill; same routing team as the Python req above, distinct language track. Verified live 2026-07-08.
+- [ ] https://yandex.ru/jobs/vacancies/razrabotchik-stazhyor-v-komandu-ai_avtomatizatsiy-46922 | Yandex | Разработчик (стажёр) в команду AI-автоматизаций | Moscow, office | note: Yandex vacancies (pro_levels=intern) — no experience required, Go/Python backend for AI-agent automation (LLM integration). Verified live 2026-07-08.
+- [ ] https://yandex.ru/jobs/vacancies/bekendrazrabotchik-v-departament-obschey-bezopasnosti-38202 | Yandex | Бэкенд-разработчик в департамент общей безопасности | Moscow, office | note: Yandex vacancies — Python/FastAPI/Django/PostgreSQL/Redis, 1+ year. On-site but candidate is Moscow-based. Verified live 2026-07-08.
+- [ ] https://yandex.ru/jobs/vacancies/razrabotchik-instrumentov-neprerivnoy-integratsii-v-avtonomniy-transport-44648 | Yandex | Разработчик инструментов непрерывной интеграции в Автономный транспорт | Moscow/Minsk, hybrid | note: Yandex vacancies — Python, CI/CD tooling with an AI-agent-based support system component, 1+ year. Verified live 2026-07-08.
+- [ ] https://rabota.sber.ru/search/stazher-student-backend-razrabotchik-python-ai-data-science-4543748/ | ПАО Сбербанк | Стажер-студент Backend разработчик Python (AI & Data Science) | Saint Petersburg | note: Sber vacancies — no experience required, Python backend at the intersection of AI, for students. Verified live 2026-07-08.
+- [ ] https://rabota.sber.ru/search/stazher-student-python-backend-engineer-4543745/ | ПАО Сбербанк | Стажер-студент Python Backend Engineer | Saint Petersburg | note: Sber vacancies — no experience required, GenAI platform (AI-agent builder + comms analytics), for students. Verified live 2026-07-08.
+- [ ] https://rabota.sber.ru/search/junior-python-razrabotchik-tehnologicheskie-servisy-4542161/ | ПАО Сбербанк | Junior Python-разработчик (Технологические сервисы) | Saint Petersburg | note: Sber vacancies — SAP-to-microservices migration team using GenAI/vibe-coding tooling. Verified live 2026-07-08.
+- [ ] https://rabota.sber.ru/search/ai-developer-4543221/ | ПАО Сбербанк | AI Developer | Moscow | note: Sber vacancies — auto-lending AI team, LLM/RAG agent coding; seniority not explicitly stated in listing, worth a closer read. Verified live 2026-07-08.
+- [ ] https://rabota.sber.ru/search/razrabotchik-ai-agentov-kiberbezopasnost-4486658/ | ПАО Сбербанк | Разработчик AI агентов (кибербезопасность) | Moscow | note: Sber vacancies — multi-agent security system team; seniority not explicitly stated in listing, worth a closer read. Verified live 2026-07-08.
+
+- [ ] https://jobicy.com/jobs/145744-frontend-engineer-react-and-aws | Numentica | Frontend Engineer React and AWS | USA
+- [ ] https://www.arbeitnow.com/jobs/companies/leadvise-reply-gmbh/ai-platform-engineer-frankfurt-467185 | Leadvise Reply GmbH | AI Platform Engineer (m/w/d) | Frankfurt
+- [ ] https://4dayweek.io/job/ai-security-operations-analyst-at-intesa-sanpaolo-aa275f3d | Intesa Sanpaolo | AI Security Operations Analyst | Milano, Italy
+- [ ] https://jobs.ashbyhq.com/sierra/8646493c-93a6-482e-a810-4a0aa6e3438f | Sierra | Software Engineer, Agent | Munich
+- [ ] https://jobs.lever.co/palantir/8148182c-6127-4689-b615-7815a94173bb | Palantir | Forward Deployed Software Engineer | Dubai, United Arab Emirates
+- [ ] https://jobs.lever.co/palantir/d83fac1c-353e-4b77-a586-3276b1090b6e | Palantir | Forward Deployed Software Engineer - US Government | Fayetteville, NC
+- [ ] https://jobs.lever.co/palantir/d5486403-c050-4920-b2e0-91b69b61ebb2 | Palantir | Forward Deployed Software Engineer, Internship - Commercial | Chicago, IL
+- [ ] https://jobs.lever.co/palantir/e0010393-c300-446f-bf67-fa2ef067f16f | Palantir | Forward Deployed Software Engineer, Internship - US Government | New York, NY
+- [ ] https://jobs.lever.co/palantir/7d69cf8a-06fd-4f05-bd84-27149db29c4d | Palantir | Software Engineer, Internship | New York, NY
+- [ ] https://jobs.lever.co/palantir/a483f41b-0da9-42ea-8ed6-cbf6eb93cc6d | Palantir | Software Engineer, Internship - Defense Tech | Palo Alto, CA
+- [ ] https://jobs.lever.co/palantir/f221738b-e97c-4ce3-a12a-17ada2b855e4 | Palantir | Software Engineer, Internship - Infrastructure | Palo Alto, CA
+- [ ] https://jobs.lever.co/palantir/37964982-9b4c-471e-a1d8-fb8f45d7f116 | Palantir | Software Engineer, Internship - Production Infrastructure | New York, NY
+- [ ] https://jobs.lever.co/palantir/e6789b17-62fb-4226-a079-f8c17ff19e2d | Palantir | Year at Palantir - Forward Deployed Software Engineer, Internship - Commercial | New York, NY
+- [ ] https://jobs.lever.co/palantir/5c7bb70c-83ea-43e7-8055-0c8f319f4333 | Palantir | Year at Palantir - Forward Deployed Software Engineer, Internship - USG | New York, NY
+- [ ] https://jobs.lever.co/pigment/6cbc9f93-5034-4838-84b0-13fbcd742163 | Pigment | AI Deployment Strategist | London
+- [ ] https://jobs.ashbyhq.com/legora/a80e0ca9-85cb-4173-9b2b-cb5644eba18f | Legora | Fullstack Engineer | Stockholm HQ
+
+- [ ] https://himalayas.app/companies/foundation-egi/jobs/cad-integrations-backend-engineer | Foundation EGI | CAD Integrations Backend Engineer | United States
+- [ ] https://himalayas.app/companies/mercor/jobs/customer-success-engineer-ai-saas-3784057446 | mercor | Customer Success Engineer - AI SaaS | Ecuador
+- [ ] http://www.circleci.com/careers/jobs/8420901002/?gh_jid=8420901002 | CircleCI | Software Engineer | Toronto, Ontario
+- [ ] https://jobs.ashbyhq.com/sierra/8f9d2381-aa28-4ad8-bdbd-8b6a7585b56c | Sierra | Software Engineer, Agent | Tokyo
+- [ ] https://jobs.lever.co/palantir/90aa8748-3fef-4e2b-9ea9-c4dc5f37f0d2 | Palantir | Forward Deployed Software Engineer | Abu Dhabi, United Arab Emirates
+- [ ] https://jobs.lever.co/palantir/e82b696e-a085-4bbf-8bcb-6d2c4f8cf2f7 | Palantir | Forward Deployed Software Engineer - US Government | New York, NY
+- [ ] https://jobs.lever.co/palantir/e6ff8bf2-135e-474d-ad37-24f490ae1dd2 | Palantir | Forward Deployed Software Engineer, Internship - US Government | Washington, D.C.
+- [ ] https://jobs.lever.co/palantir/bdcfb29f-4f27-42de-933f-7f83a359b9f0 | Palantir | Software Engineer, Internship | Washington, D.C.
+- [ ] https://jobs.lever.co/palantir/f17e98d0-046a-4e6e-9d65-ed0b12dd0ff7 | Palantir | Software Engineer, Internship - Defense Tech | Washington, D.C.
+- [ ] https://jobs.lever.co/palantir/3ab9e715-1ea9-4c6c-ad50-7340eac14e86 | Palantir | Software Engineer, Internship - Production Infrastructure | Washington, D.C.
+- [ ] https://jobs.lever.co/pigment/a1be33de-4f92-4a74-9ea2-30965b384666 | Pigment | AI Deployment Strategist | Paris
+
+- [ ] https://remotive.com/remote-jobs/software-development/frontend-developer-2090991 | Quinncia Inc | Frontend Developer | Worldwide
+- [ ] https://jobicy.com/jobs/145575-solutions-engineer-3 | Pindrop | Solutions Engineer | USA
+- [ ] https://www.arbeitnow.com/jobs/companies/explaino/founding-ai-engineer-garching-329838 | explaino | Founding AI Engineer | Garching
+- [ ] https://www.arbeitnow.com/jobs/companies/unigy-gmbh/fullstack-entwicklerin-essen-413236 | Unigy GmbH | Fullstack Entwickler:in (m/w/d) | Essen
+- [ ] https://www.arbeitnow.com/jobs/companies/muxon/golang-developer-hamburg-292801 | Muxon | Golang Developer (Hamburg) | Hamburg
+- [ ] https://www.arbeitnow.com/jobs/companies/muxon/golang-entwickler-remote-deutschland-berlin-22644 | Muxon | Golang Entwickler (m/w/d) - Remote (Deutschland) | Berlin, Remote
+- [ ] https://www.arbeitnow.com/jobs/companies/atmen-solutions-gmbh/freelance-software-engineer-full-stack-nodejs-react-typescript-munich-431194 | Atmen Solutions GmbH | Freelance Software Engineer (Full Stack: Node.js, React, TypeScript) | Munich, Remote
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5284500008 | Anthropic | Strategy & Operations, Applied AI - AMER | San Francisco, CA / New York City, NY
+- [ ] https://remoteOK.com/remote-jobs/remote-junior-front-end-developer-pulsemedia-mena-1134518 | PULSEMEDIA (MENA) | Junior Front End Developer | Ø§ÙØ±ÙØ§Ø¶, Ø§ÙØ±ÙØ§Ø¶ Ø§ÙØ±ÙØ§Ø¶ Ø§ÙØ³Ø¹ÙØ¯ÙØ©
+- [ ] https://jobs.ashbyhq.com/sierra/b7d1dbcd-ca72-472f-b15e-5b4b0f886be0 | Sierra | Software Engineer, Agent | London
+- [ ] https://careers.hellofresh.com/global/en/job/7977073?gh_jid=7977073 | HelloFresh | Frontend Engineer, Consumer | Toronto, Ontario, Canada
+- [ ] https://thehub.io/jobs/6a35111373ce67b9b80ecb89 | NextLab Ventures A/S | Frontend & UX Developer | Aarhus, Denmark
+- [ ] https://jobs.ashbyhq.com/synthesia/dcc970b0-9043-4fc6-b628-3b8dad021c84 | Synthesia | Webflow Developer / Front-End Engineer | London · Remote · United Kingdom · Copenhagen · Denmark
+- [ ] https://jobs.ashbyhq.com/faculty/5f88585f-f7eb-44ca-903a-cbf0d710831d | Faculty | Frontend Engineer | UK - London
+- [ ] https://jobs.lever.co/pigment/aa87cacc-8a4e-4e8a-9341-e1e7624d05e9 | Pigment | AI Deployment Strategist | Austin, Texas
+- [ ] https://jobs.lever.co/pigment/bbb9ea1a-fbb2-44ca-9195-770199323725 | Pigment | Front-end Engineer | Toronto
+- [ ] https://jobs.lever.co/palantir/98b81271-9e15-40b7-8dce-0c62f24702f9 | Palantir | Forward Deployed Software Engineer | Vilnius, Lithuania
+- [ ] https://jobs.lever.co/palantir/e27af7ab-41fc-40c9-b31d-02c6cb1c505c | Palantir | Software Engineer, Internship | Palo Alto, CA
+- [ ] https://jobs.lever.co/spotify/9ce12867-8c84-40c5-be40-d8831ab98925 | Spotify | Frontend Engineer - Music | London
+- [ ] https://solid.jobs/o/bx521tzl/career-ops | Power Media | Frontend Developer / Mobile Developer (Angular / Flutter) | Warszawa
+- [ ] https://solid.jobs/o/6w3saip9/career-ops | inFakt | Frontend Developer | Kraków
+
+## Processed

@@ -1,0 +1,90 @@
+# Career-Ops Profile Configuration
+# Single source of truth for personal data across all modes.
+
+candidate:
+  full_name: "Abdullah Miraz"
+  nationality: "Bangladesh"
+  email: "abdullahmiraz2015@gmail.com"
+  phone: ""
+  wechat: ""
+  location: "Moscow, Russia (international student — Bangladeshi national, not Russian; no Russia-specific hiring restriction on the candidate's side)"
+  linkedin: "linkedin.com/in/abdullahmiraz"
+  portfolio_url: "https://miraz.dev"
+  resume_url: "https://miraz.dev/resume.pdf"
+  github: "github.com/abdullahmiraz"
+  twitter: ""
+  photo: ""
+
+target_roles:
+  primary:
+    - "Frontend Engineer"
+    - "Backend Engineer"
+    - "AI/LLM Engineer"
+    - "Full-Stack Engineer"
+    - "Founding/Product Engineer"
+  archetypes:
+    - name: "Backend Engineer"
+      level: "Mid"
+      fit: "primary"
+    - name: "AI/LLM Engineer"
+      level: "Mid"
+      fit: "primary"
+    - name: "Full-Stack Engineer"
+      level: "Mid"
+      fit: "primary"
+    - name: "Frontend Engineer"
+      level: "Mid"
+      fit: "primary"
+    - name: "Founding/Product Engineer"
+      level: "Mid"
+      fit: "secondary"
+
+narrative:
+  headline: "Backend + AI-native engineer who ships scalable, LLM-powered products"
+  exit_story: "Backend-focused software engineer with production experience across EMR, CMS, and enterprise dashboard systems, now building AI-native applications (RAG, LLM integration) and pursuing an MSc in Software Engineering."
+  superpowers:
+    - "Backend performance: measurable API latency and query wins (40% latency cut, 35-50% lookup gains)"
+    - "AI-native product building: RAG systems, LLM integration, BYOK architectures"
+    - "End-to-end full-stack delivery from UI to backend to deployment"
+    - "Strong CS fundamentals: 500+ competitive-programming problems, ICPC regionals"
+  proof_points:
+    - name: "Medibuy — AI-Assisted Online Medicine Platform"
+      url: "https://miraz.dev"
+      hero_metric: "BYOK AI architecture + PostgreSQL full-text search"
+    - name: "MindStore AI — RAG Knowledge System"
+      url: "https://miraz.dev"
+      hero_metric: "Embeddings + cosine-similarity retrieval with SSE streaming"
+    - name: "ATI Limited — Production EMR"
+      url: ""
+      hero_metric: "40% API latency reduction; 35-50% lookup improvement"
+
+compensation:
+  target_range: ""
+  currency: "USD"
+  minimum: ""
+  location_flexibility: "Remote preferred; currently Moscow (studying), also open to Bangladesh-based/local roles, or relocation for the right role"
+
+location:
+  country: "Russia (current, as a student) / Bangladesh (nationality)"
+  city: "Moscow"
+  timezone: "MSK"
+  visa_status: "Bangladeshi national, international student in Moscow — not personally restricted by Russia-specific sanctions/eligibility rules. Standard cross-border remote-work authorization still applies per employer's own country (same as any international remote hire) — confirm on a per-role basis, don't assume a blanket block from being Moscow-based."
+
+culture_screen:
+  # Not senior/FAANG-ready yet — prefers roles that hire on projects/practical
+  # ability rather than long, heavy interview loops.
+  require:
+    - "Intern/Junior/Mid-level or explicitly open to less-experienced candidates"
+    - "Small-to-mid size company or startup (not FAANG-scale, multi-stage bar-raiser hiring)"
+    - "Practical/portfolio/take-home-based hiring rather than heavy live algorithmic rounds"
+  # Do NOT cap when the JD is simply silent on hiring-process/company-size —
+  # most JDs never mention this. Only cap when the JD actively CONTRADICTS these
+  # (e.g. explicit "4-6 round loop", "system design + algorithms", "L5/L6", "bar raiser").
+  deprioritize_if_absent: false
+
+cv:
+  output_format: "html"
+
+cover_letter:
+  notice_period_days: 30
+  primary_domain: "frontend, backend & AI-native web systems"
