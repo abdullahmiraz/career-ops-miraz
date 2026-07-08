@@ -33,11 +33,13 @@ const BATCH = 20;
 // Default is a small fresh batch (never the full wall); free facets + Save/Skip narrow
 // it; only "Score shortlist" spends tokens. 🔴 The shell is agnostic to what makes a
 // role relevant — order is freshness with a single documented plug point.
-export function InboxTriage({ inbox }: { inbox: InboxJob[] }) {
+export function InboxTriage({ inbox, initialWithinDays = null }: { inbox: InboxJob[]; initialWithinDays?: number | null }) {
   const { jobs, startJob } = useJobs();
 
-  // facets
-  const [within, setWithin] = useState<number | null>(null);
+  // facets — `initialWithinDays` lets a deep link (e.g. Today's "See all N fresh
+  // matches") land pre-filtered to the same freshness window it was counted with,
+  // instead of dumping the visitor on an unfiltered 733-row inbox.
+  const [within, setWithin] = useState<number | null>(initialWithinDays);
   const [sources, setSources] = useState<Set<AtsSource>>(() => new Set());
   const [seniorities, setSeniorities] = useState<Set<Seniority>>(() => new Set());
   const [methods, setMethods] = useState<Set<DiscoveryMethod>>(() => new Set());

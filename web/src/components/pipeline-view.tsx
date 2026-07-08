@@ -183,7 +183,7 @@ export function PipelineView({
       {tab === "INBOX" ? (
         /* ── Inbox: the triage surface (Abundance → Triage → Shortlist → Score) ── */
         pendingInbox.length > 0 ? (
-          <InboxTriage inbox={pendingInbox} />
+          <InboxTriage inbox={pendingInbox} initialWithinDays={Number.isFinite(parseFloat(params.get("within") ?? "")) ? parseFloat(params.get("within")!) : null} />
         ) : (
           <InboxEmpty count={0} filtered={false} />
         )
