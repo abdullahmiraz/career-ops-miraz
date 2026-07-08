@@ -1,10 +1,11 @@
 "use client";
 
 import Link from "next/link";
-import { Bookmark, BookmarkCheck, Loader2, X } from "lucide-react";
+import { Bookmark, BookmarkCheck, ExternalLink, Loader2, X } from "lucide-react";
 import type { InboxJob } from "@/lib/career-ops";
 import type { AtsSource } from "@/lib/explore";
 import { ATS_LABEL } from "@/lib/explore";
+import type { DiscoveryMethod } from "@/lib/inbox";
 import { Badge } from "@/components/ui/badge";
 import { CompanyLogo } from "@/components/company-logo";
 import { cn } from "@/lib/cn";
@@ -26,6 +27,7 @@ function agoLabel(age: number | null): string | null {
 export function TriageRow({
   job,
   source,
+  method,
   age,
   scored,
   selected,
@@ -36,6 +38,7 @@ export function TriageRow({
 }: {
   job: InboxJob;
   source: AtsSource | null;
+  method?: DiscoveryMethod;
   age: number | null;
   scored?: RowScore;
   selected: boolean;
@@ -67,13 +70,25 @@ export function TriageRow({
       <CompanyLogo name={job.company} size={20} />
 
       <div className="min-w-0 flex-1">
-        <p className="truncate text-sm">
+        <a
+          href={job.url}
+          target="_blank"
+          rel="noopener noreferrer"
+          className="group flex items-center gap-1 truncate text-sm hover:underline"
+          title="Open the original posting"
+        >
           <span className="font-medium text-foreground">{job.company}</span>
-          <span className="text-muted"> · {job.role}</span>
-        </p>
+          <span className="truncate text-muted"> · {job.role}</span>
+          <ExternalLink className="size-3 shrink-0 text-faint opacity-0 transition-opacity group-hover:opacity-100" />
+        </a>
         <p className="mt-0.5 flex flex-wrap items-center gap-x-2 gap-y-0.5 text-[11px] text-faint">
           {job.location && <span className="truncate">{job.location}</span>}
           {source && <span className="rounded bg-surface-hover px-1 py-px font-medium text-muted">{ATS_LABEL[source]}</span>}
+          {method === "ai-search" && (
+            <span className="rounded bg-brand-soft px-1 py-px font-medium text-brand" title="Found by AI search, not the deterministic scan">
+              AI
+            </span>
+          )}
           {ago && <span>{ago}</span>}
           {/* 🔴 CRUDA: honest "not scored" — no fabricated match%. */}
           {!evaluated && <span className="italic text-muted">not scored</span>}

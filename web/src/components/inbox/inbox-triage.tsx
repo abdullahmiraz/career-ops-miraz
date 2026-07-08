@@ -6,7 +6,19 @@ import { useJobs } from "@/components/jobs/job-store";
 import type { InboxJob } from "@/lib/career-ops";
 import type { AtsSource } from "@/lib/explore";
 import { ATS_SOURCES } from "@/lib/explore";
-import { daysSince, seniorityFromTitle, sourceFromUrl, SENIORITY_ORDER, type Seniority } from "@/lib/inbox";
+import {
+  daysSince,
+  seniorityFromTitle,
+  sourceFromUrl,
+  SENIORITY_ORDER,
+  type Seniority,
+  discoveryMethodFromSource,
+  DISCOVERY_METHOD_ORDER,
+  type DiscoveryMethod,
+  marketFromUrlOrLocation,
+  MARKET_ORDER,
+  type Market,
+} from "@/lib/inbox";
 import { FacetChips } from "./facet-chips";
 import { TriageRow, type RowScore } from "./triage-row";
 import { ShortlistTray, type ShortItem } from "./shortlist-tray";
@@ -28,6 +40,8 @@ export function InboxTriage({ inbox }: { inbox: InboxJob[] }) {
   const [within, setWithin] = useState<number | null>(null);
   const [sources, setSources] = useState<Set<AtsSource>>(() => new Set());
   const [seniorities, setSeniorities] = useState<Set<Seniority>>(() => new Set());
+  const [methods, setMethods] = useState<Set<DiscoveryMethod>>(() => new Set());
+  const [markets, setMarkets] = useState<Set<Market>>(() => new Set());
   const [locQ, setLocQ] = useState("");
   const [kw, setKw] = useState("");
   const [showAll, setShowAll] = useState(false);
@@ -73,11 +87,25 @@ export function InboxTriage({ inbox }: { inbox: InboxJob[] }) {
   // triages once (and Save/Skip/score, all keyed by URL, act on it coherently).
   const enriched = useMemo(() => {
     const seen = new Set<string>();
-    const out: { job: InboxJob; source: AtsSource | null; seniority: Seniority | null; age: number | null }[] = [];
+    const out: {
+      job: InboxJob;
+      source: AtsSource | null;
+      seniority: Seniority | null;
+      age: number | null;
+      method: DiscoveryMethod;
+      market: Market | null;
+    }[] = [];
     for (const job of inbox) {
       if (seen.has(job.url)) continue;
       seen.add(job.url);
-      out.push({ job, source: sourceFromUrl(job.url), seniority: seniorityFromTitle(job.role), age: daysSince(job.postedAt, now) });
+      out.push({
+        job,
+        source: sourceFromUrl(job.url),
+        seniority: seniorityFromTitle(job.role),
+        age: daysSince(job.postedAt, now),
+        method: discoveryMethodFromSource(job.discoverySource),
+        market: marketFromUrlOrLocation(job.url, job.location),
+      });
     }
     return out;
   }, [inbox, now]);
@@ -108,6 +136,16 @@ export function InboxTriage({ inbox }: { inbox: InboxJob[] }) {
     for (const e of enriched) if (e.seniority && !hidden.includes(e.job.url)) set.add(e.seniority);
     return SENIORITY_ORDER.filter((s) => set.has(s));
   }, [enriched, hidden]);
+  const availMethods = useMemo(() => {
+    const set = new Set<DiscoveryMethod>();
+    for (const e of enriched) if (!hidden.includes(e.job.url)) set.add(e.method);
+    return DISCOVERY_METHOD_ORDER.filter((m) => set.has(m));
+  }, [enriched, hidden]);
+  const availMarkets = useMemo(() => {
+    const set = new Set<Market>();
+    for (const e of enriched) if (e.market && !hidden.includes(e.job.url)) set.add(e.market);
+    return MARKET_ORDER.filter((m) => set.has(m));
+  }, [enriched, hidden]);
 
   const filtered = useMemo(
     () =>
@@ -116,11 +154,13 @@ export function InboxTriage({ inbox }: { inbox: InboxJob[] }) {
         if (within != null && (e.age == null || e.age > within)) return false;
         if (sources.size && (!e.source || !sources.has(e.source))) return false;
         if (seniorities.size && (!e.seniority || !seniorities.has(e.seniority))) return false;
+        if (methods.size && !methods.has(e.method)) return false;
+        if (markets.size && (!e.market || !markets.has(e.market))) return false;
         if (locQ.trim() && !(e.job.location || "").toLowerCase().includes(locQ.trim().toLowerCase())) return false;
         if (kw.trim() && !`${e.job.company} ${e.job.role}`.toLowerCase().includes(kw.trim().toLowerCase())) return false;
         return true;
       }),
-    [enriched, hidden, within, sources, seniorities, locQ, kw],
+    [enriched, hidden, within, sources, seniorities, methods, markets, locQ, kw],
   );
 
   // 🔴 SINGLE ORDER PLUG POINT — freshness only (newest first_seen first; unknown last).
@@ -128,7 +168,14 @@ export function InboxTriage({ inbox }: { inbox: InboxJob[] }) {
   // touch relevance. This is the whole firewall in one line.
   const ordered = useMemo(() => [...filtered].sort((a, b) => (a.age ?? Infinity) - (b.age ?? Infinity)), [filtered]);
 
-  const anyFacet = within != null || sources.size > 0 || seniorities.size > 0 || locQ.trim() !== "" || kw.trim() !== "";
+  const anyFacet =
+    within != null ||
+    sources.size > 0 ||
+    seniorities.size > 0 ||
+    methods.size > 0 ||
+    markets.size > 0 ||
+    locQ.trim() !== "" ||
+    kw.trim() !== "";
   const capped = !showAll && !anyFacet;
   const visible = capped ? ordered.slice(0, BATCH) : ordered;
   const hiddenCount = hidden.length;
@@ -188,16 +235,22 @@ export function InboxTriage({ inbox }: { inbox: InboxJob[] }) {
         toggleSource={(s) => setSources((set) => { const n = new Set(set); n.has(s) ? n.delete(s) : n.add(s); return n; })}
         seniorities={seniorities}
         toggleSeniority={(s) => setSeniorities((set) => { const n = new Set(set); n.has(s) ? n.delete(s) : n.add(s); return n; })}
+        methods={methods}
+        toggleMethod={(m) => setMethods((set) => { const n = new Set(set); n.has(m) ? n.delete(m) : n.add(m); return n; })}
+        markets={markets}
+        toggleMarket={(m) => setMarkets((set) => { const n = new Set(set); n.has(m) ? n.delete(m) : n.add(m); return n; })}
         locQ={locQ}
         setLocQ={setLocQ}
         kw={kw}
         setKw={setKw}
         availSources={availSources}
         availSeniorities={availSeniorities}
+        availMethods={availMethods}
+        availMarkets={availMarkets}
         resultCount={filtered.length}
         totalCount={enriched.length - hiddenCount}
         anyActive={anyFacet}
-        onClear={() => { setWithin(null); setSources(new Set()); setSeniorities(new Set()); setLocQ(""); setKw(""); }}
+        onClear={() => { setWithin(null); setSources(new Set()); setSeniorities(new Set()); setMethods(new Set()); setMarkets(new Set()); setLocQ(""); setKw(""); }}
       />
 
       {/* batch header: fresh slice by default, or the full filtered set */}
@@ -232,6 +285,7 @@ export function InboxTriage({ inbox }: { inbox: InboxJob[] }) {
               key={e.job.url}
               job={e.job}
               source={e.source}
+              method={e.method}
               age={e.age}
               scored={scoreByUrl.get(e.job.url)}
               selected={selected.has(e.job.url)}

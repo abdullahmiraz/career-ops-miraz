@@ -3,7 +3,15 @@
 import { Search, X } from "lucide-react";
 import type { AtsSource } from "@/lib/explore";
 import { ATS_LABEL } from "@/lib/explore";
-import { FRESHNESS_WINDOWS, SENIORITY_LABEL, type Seniority } from "@/lib/inbox";
+import {
+  FRESHNESS_WINDOWS,
+  SENIORITY_LABEL,
+  type Seniority,
+  DISCOVERY_METHOD_LABEL,
+  type DiscoveryMethod,
+  MARKET_LABEL,
+  type Market,
+} from "@/lib/inbox";
 import { CostBadge } from "@/components/cost/cost-badge";
 import { cn } from "@/lib/cn";
 
@@ -17,12 +25,18 @@ export function FacetChips({
   toggleSource,
   seniorities,
   toggleSeniority,
+  methods,
+  toggleMethod,
+  markets,
+  toggleMarket,
   locQ,
   setLocQ,
   kw,
   setKw,
   availSources,
   availSeniorities,
+  availMethods,
+  availMarkets,
   resultCount,
   totalCount,
   anyActive,
@@ -34,12 +48,18 @@ export function FacetChips({
   toggleSource: (s: AtsSource) => void;
   seniorities: Set<Seniority>;
   toggleSeniority: (s: Seniority) => void;
+  methods: Set<DiscoveryMethod>;
+  toggleMethod: (m: DiscoveryMethod) => void;
+  markets: Set<Market>;
+  toggleMarket: (m: Market) => void;
   locQ: string;
   setLocQ: (v: string) => void;
   kw: string;
   setKw: (v: string) => void;
   availSources: AtsSource[];
   availSeniorities: Seniority[];
+  availMethods: DiscoveryMethod[];
+  availMarkets: Market[];
   resultCount: number;
   totalCount: number;
   anyActive: boolean;
@@ -92,6 +112,19 @@ export function FacetChips({
         {availSeniorities.map((s) => (
           <Pill key={s} on={seniorities.has(s)} onClick={() => toggleSeniority(s)}>
             {SENIORITY_LABEL[s]}
+          </Pill>
+        ))}
+
+        {availMethods.length > 1 &&
+          availMethods.map((m) => (
+            <Pill key={m} on={methods.has(m)} onClick={() => toggleMethod(m)}>
+              {DISCOVERY_METHOD_LABEL[m]}
+            </Pill>
+          ))}
+
+        {availMarkets.map((m) => (
+          <Pill key={m} on={markets.has(m)} onClick={() => toggleMarket(m)}>
+            {MARKET_LABEL[m]}
           </Pill>
         ))}
 

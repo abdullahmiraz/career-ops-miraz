@@ -45,7 +45,7 @@ function read(rel: string): string | null {
   }
 }
 
-export type InboxJob = { url: string; company: string; role: string; location?: string; compensation?: string; done: boolean; postedAt?: string };
+export type InboxJob = { url: string; company: string; role: string; location?: string; compensation?: string; done: boolean; postedAt?: string; discoverySource?: string };
 
 /** Parse data/pipeline.md — `- [ ] URL | Company | Role [| Location [| Compensation]]`.
  *  Positional split (NOT a greedy trailing group): the optional 4th `location`
@@ -96,6 +96,25 @@ export function readScanDates(): Map<string, string> {
     if (/^\d{4}-\d{2}-\d{2}$/.test(firstSeen) && !dates.has(url)) dates.set(url, firstSeen);
   }
   return dates;
+}
+
+/** scan-history.tsv col 2 (0-indexed) = source/provider id (e.g. "ai-search",
+ *  "greenhouse-api", "bdjobs-api"). Same earliest-wins, tolerant-parse pattern
+ *  as readScanDates() — feeds the Discovery-method and Market inbox facets. */
+export function readScanSources(): Map<string, string> {
+  const tsv = read("data/scan-history.tsv");
+  const sources = new Map<string, string>();
+  if (!tsv) return sources;
+  const lines = tsv.split("\n");
+  for (let i = 0; i < lines.length; i++) {
+    const line = lines[i];
+    if (!line || (i === 0 && line.startsWith("url\t"))) continue;
+    const cols = line.split("\t");
+    const url = cols[0];
+    const source = cols[2]?.trim();
+    if (url && source && !sources.has(url)) sources.set(url, source);
+  }
+  return sources;
 }
 
 export type Application = {
@@ -182,12 +201,14 @@ export type PipelineSummary = {
 export function pipelineSummary(): PipelineSummary {
   const root = careerOpsRoot();
   const scanDates = readScanDates();
+  const scanSources = readScanSources();
   return {
     root,
     rootExists: fs.existsSync(root),
-    // join the freshness date (first_seen) onto each raw posting — the inbox's
-    // triage view orders/faceted-filters on it entirely client-side.
-    inbox: readInbox().map((j) => ({ ...j, postedAt: scanDates.get(j.url) })),
+    // join the freshness date (first_seen) + discovery source onto each raw
+    // posting — the inbox's triage view orders/facet-filters on both, entirely
+    // client-side.
+    inbox: readInbox().map((j) => ({ ...j, postedAt: scanDates.get(j.url), discoverySource: scanSources.get(j.url) })),
     applications: readApplications(),
   };
 }
