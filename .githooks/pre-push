@@ -1,0 +1,62 @@
+#!/bin/sh
+# Personal-fork push guard. Two jobs:
+#   1. Refuse any push whose remote points at the upstream career-ops repo —
+#      this fork never pushes/PRs upstream (sync FROM it via `git fetch upstream`
+#      / `git merge upstream/main` instead; that direction is untouched here).
+#   2. Sanity-check every push to ANY remote: catch secrets that shouldn't be
+#      staged, and catch the no-user-data CI guard being deleted/renamed.
+# See modes/_custom.md "Off-Limits" / no-publishing-fork memory for the full
+# reasoning. Bypass only with `git push --no-verify` and only if you are SURE.
+
+remote_name="$1"
+remote_url="$2"
+
+case "$remote_url" in
+  *santifer/career-ops*)
+    echo "BLOCKED: refusing to push to the upstream career-ops repo ($remote_url)." >&2
+    echo "This fork never pushes/PRs upstream. Push to 'origin' (your own fork) instead." >&2
+    exit 1
+    ;;
+esac
+
+# Secret-pattern scan — look at every commit newly introduced by this push,
+# across all refs being updated (read from stdin per the pre-push protocol).
+secret_pattern='(^|/)\.env$|(^|/)\.env\.[^.]*$|id_rsa$|id_ed25519$|\.pem$|\.pfx$|\.p12$'
+guard_file=".github/workflows/no-user-data.yml"
+bad_secret=""
+guard_removed=""
+
+while read -r local_ref local_sha remote_ref remote_sha; do
+  [ "$local_sha" = "0000000000000000000000000000000000000000" ] && continue
+  if [ "$remote_sha" = "0000000000000000000000000000000000000000" ]; then
+    range="$local_sha"
+  else
+    range="$remote_sha..$local_sha"
+  fi
+  files=$(git diff --name-only "$range" 2>/dev/null)
+  hit=$(printf '%s\n' "$files" | grep -E "$secret_pattern")
+  if [ -n "$hit" ]; then
+    bad_secret="$bad_secret
+$hit"
+  fi
+  if printf '%s\n' "$files" | grep -qx "$guard_file"; then
+    still_present=$(git show "$local_sha:$guard_file" 2>/dev/null)
+    [ -z "$still_present" ] && guard_removed="yes"
+  fi
+done
+
+if [ -n "$bad_secret" ]; then
+  echo "BLOCKED: this push introduces file(s) matching a secret pattern:" >&2
+  printf '%s\n' "$bad_secret" >&2
+  echo "If this is a false positive, re-run with: git push --no-verify" >&2
+  exit 1
+fi
+
+if [ -n "$guard_removed" ]; then
+  echo "WARNING: $guard_file (the no-user-data CI guard) is being removed by this push." >&2
+  echo "That guard is what stops personal data from ever landing in an upstream PR." >&2
+  echo "If this is intentional, re-run with: git push --no-verify" >&2
+  exit 1
+fi
+
+exit 0

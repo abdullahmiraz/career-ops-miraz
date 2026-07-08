@@ -24,13 +24,17 @@
 
 ## House Rules
 
-<!-- Rules the agent should always follow. Examples:
+- **This is a personal fork of `santifer/career-ops`, used as a live backup of my own data** (cv.md, config/profile.yml, portals.yml, modes/_profile.md, modes/_custom.md, data/*, reports/*). These files are intentionally TRACKED here (not gitignored) — commit and push them to `origin` (my own fork) freely, same as any code change.
+- Before pushing (any push, to any remote), the repo's `.githooks/pre-push` hook runs automatically via `core.hooksPath` — it blocks pushes to the upstream repo outright, scans for accidentally-staged secret files (`.env`, `*.pem`, private keys), and blocks removal of `.github/workflows/no-user-data.yml` (the CI guard that hard-fails any PR touching personal-data paths). **If this repo is ever re-cloned on another machine, run `git config core.hooksPath .githooks` once** — the setting itself is local git config, not something a clone inherits automatically, only the hook file does.
+- `origin` = my own fork (push freely). `upstream` = `santifer/career-ops`, fetch-only by design (`git fetch upstream` / `git merge upstream/main` to sync updates) — its push URL is deliberately invalid.
+
+<!-- Other rules the agent should always follow. Examples:
      - Always write evaluation summaries in British English.
      - Never include a photo in my CV (US / ATS-first market).
      - Cap each batch run at 20 listings unless I say otherwise.
      - If a report scores below 6, skip the cover letter. -->
 
-(none yet -- add yours above)
+(add more above as they come up)
 
 ## Custom Workflows
 
@@ -53,8 +57,11 @@
 
 ## Off-Limits
 
-<!-- Things the agent must never do for you. Examples:
+- Never push, create a PR, or open a merge request against `upstream`/`santifer/career-ops` on my behalf. This fork syncs FROM upstream only (fetch/merge); it never contributes back.
+- Never bypass the `.githooks/pre-push` guard (`git push --no-verify`) without asking me first and explaining why it's blocking.
+
+<!-- Other things the agent must never do for you. Examples:
      - Never auto-fill or submit an application without showing me first.
      - Never edit a system file to customize my setup -- put it here. -->
 
-(none yet -- add yours above)
+(add more above as they come up)
