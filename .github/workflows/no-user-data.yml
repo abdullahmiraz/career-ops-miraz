@@ -28,12 +28,15 @@ jobs:
               owner, repo, pull_number, per_page: 100,
             });
 
-            // USER_PATHS (update-system.mjs). voice-dna.md is omitted on purpose:
-            // it ships as a populated system default, so edits to it are legit.
+            // USER_PATHS (update-system.mjs) — kept in exact sync with that file's own
+            // list; re-diff the two on any future USER_PATHS change there.
+            // voice-dna.md is omitted on purpose: it ships as a populated system
+            // default, so edits to it are legit.
             const USER_PATHS = [
               /^cv\.md$/,
               /^config\/profile\.yml$/,
               /^modes\/_profile\.md$/,
+              /^modes\/_custom\.md$/,
               /^portals\.yml$/,
               /^article-digest\.md$/,
               /^interview-prep\//,
@@ -42,6 +45,11 @@ jobs:
               /^output\//,
               /^jds\//,
               /^writing-samples\//,
+              /^config\/plugins\.yml$/,
+              /^plugins\.local\//,
+              /^plugins\.lock$/,
+              /^\.claude\/settings\.json$/,
+              /^\.claude\/hooks\//,
             ];
             // Tracked scaffolding that legitimately lives under those dirs.
             const isScaffold = (f) => /(^|\/)\.gitkeep$/.test(f) || /(^|\/)README\.md$/.test(f);
