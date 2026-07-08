@@ -1,34 +1,13 @@
-# Personal data (user fills these)
-cv.md
-data/applications.md
-data/applications.db
-data/follow-ups.md
-data/salary-observations.tsv
-data/pipeline.md
-data/scan-history.tsv
-data/scan-runs.tsv
-data/pdf-index.tsv
-data/agent-inbox.md
-data/reply-candidates.json
-data/parser-output/**/*.json
-!data/parser-output/.gitkeep
-!data/parser-output/**/.gitkeep
-data/cache/ats-companies/
-# Received offers/contracts, promise notes, prep reports (PII — never commit)
-data/offers/*
-!data/offers/.gitkeep
-reports/*.md
-!reports/.gitkeep
-output/*
-!output/.gitkeep
-batch/logs/*
-!batch/logs/.gitkeep
-batch/batch-state.tsv
-batch/batch-input.tsv
-batch/tracker-additions/**/*.tsv
-!batch/tracker-additions/.gitkeep
-jds/*
-!jds/.gitkeep
+# Personal data — TRACKED in this fork on purpose (see no-publishing-fork memory /
+# .github/workflows/no-user-data.yml). This fork exists to back up the user's own
+# CV, profile, tracker, reports, etc. in their own private remote. The CI guard
+# (no-user-data.yml) is what stops any of this from ever landing in a PR/merge to
+# the upstream santifer/career-ops repo — push to `upstream` is also disabled at
+# the remote level (see `git remote -v`) and blocked by a local pre-push hook.
+#
+# If you are NOT the fork owner and cloned this as a fresh install, note that a
+# stock career-ops checkout normally ignores all of the paths below — see
+# DATA_CONTRACT.md for the general-case data contract.
 
 # Personal documents — never commit scans or copies of these (PII).
 # Catches common identity/credential filenames so they can't be staged by accident.
@@ -37,34 +16,6 @@ jds/*
 *简历*
 *学位*
 *成绩单*
-
-# Interview prep (accumulated STAR+R stories — user data)
-interview-prep/*
-!interview-prep/
-!interview-prep/.gitkeep
-# Session transcripts hold real interviewer names/companies — ignore content,
-# ship only the system-owned scaffold (README + .gitkeep). #1242
-!interview-prep/sessions/
-interview-prep/sessions/*
-!interview-prep/sessions/.gitkeep
-!interview-prep/sessions/README.md
-
-# Writing samples (user's personal files — never committed)
-writing-samples/*
-!writing-samples/README.md
-
-# User config and customization (never auto-updated)
-config/profile.yml
-portals.yml
-modes/_profile.md
-modes/_custom.md
-.update-dismissed
-.update-lock
-
-# Plugin layer — opt-in toggles + user-installed plugins + integrity lock (never auto-updated)
-config/plugins.yml
-plugins.local/
-plugins.lock
 
 # Secrets (never commit — use .env.example as template)
 .env
@@ -84,15 +35,24 @@ reports/*-RESERVED.md
 # Backup files written by normalize-statuses.mjs / dedup-tracker.mjs
 *.bak
 
-# OpenRouter runner — generated data (personal, never commit)
-data/model-blacklist.json
+# Batch — ephemeral working artifacts, not durable personal-data backup
+batch/logs/*
+!batch/logs/.gitkeep
+batch/batch-state.tsv
+batch/batch-input.tsv
+batch/tracker-additions/**/*.tsv
+!batch/tracker-additions/.gitkeep
+
+# Local update-checker state (not personal data, just operational flags)
+.update-dismissed
+.update-lock
 
 # OS
 .DS_Store
 *.mov
 *.mp4
 
-# CLI-specific local config
+# CLI-specific local config (machine-local only — never synced, even to your own backup)
 .claude/settings.local.json
 .claude/memory/
 .opencode/settings.local.json
@@ -104,6 +64,9 @@ package-lock.json
 
 # Playwright MCP server run artifacts (ephemeral, machine-local)
 .playwright-mcp/
+
+# web/ runtime cache — cached company logo images, not personal data, not worth versioning
+.career-ops-web/
 
 # Planning (local scratchpad)
 plan/
